@@ -10,7 +10,7 @@
 - 📌 This comes after the Guardian revealed the government would be allowing oil and gas drilling under offshore wind turbines, a decision criticised by climate experts as “deeply irresponsible
   hid:: Cm9GUAlaEe-Bnnf0dlthBg
   updated:: 2024-05-03T14:32:59.730822+00:00
-- 📌 The Climate Change Committee’s assessment last year was that the government only had credible policies in place for less than 20% of the emissions cuts needed to meet the sixth carbon budget.
+- 📌 The [[Climate Change Committee]]’s assessment last year was that the government only had credible policies in place for less than 20% of the emissions cuts needed to meet the sixth carbon budget.
   hid:: gS0JOglaEe-84V8Ug0gLLw
   updated:: 2024-05-03T14:36:18.987687+00:00
 - 📌 lawyer for Friends of the Earth, Katie de Kauwe, said
