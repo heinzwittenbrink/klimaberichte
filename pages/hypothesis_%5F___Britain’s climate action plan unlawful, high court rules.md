@@ -13,7 +13,7 @@
 - 📌 The [[Climate Change Committee]]’s assessment last year was that the government only had credible policies in place for less than 20% of the emissions cuts needed to meet the sixth carbon budget.
   hid:: gS0JOglaEe-84V8Ug0gLLw
   updated:: 2024-05-03T14:36:18.987687+00:00
-- 📌 lawyer for Friends of the Earth, Katie de Kauwe, said
+- 📌 lawyer for [[Friends of the Earth]] , [[Katie de Kauwe]], said
   hid:: ixTX_AlaEe-_ghuGatRDDg
   updated:: 2024-05-03T14:36:35.611996+00:00
 - 📌 The environmental charities Friends of the Earth and ClientEarth took joint legal action with the Good Law Project against the Department for Energy Security and Net Zero (DESNZ) over its decision to approve the carbon budget delivery plan (CBDP) in March 2023.
