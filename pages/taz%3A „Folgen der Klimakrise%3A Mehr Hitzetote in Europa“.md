@@ -6,7 +6,7 @@ hypothesis-naming-scheme:: 0.2.0
   hid:: EkyLQgDdEe-5cPsfltB16A
   updated:: 2024-05-03T15:04:21.949069+00:00
   
-  Bericht: https://climate.copernicus.eu/esotc/2023 #[[2024-04-22]] #[[European State of the Climate 2023]] #[[2023]] #[[global heating]] #[[heat deaths]]
+  Bericht: https://climate.copernicus.eu/esotc/2023 #[[2024-04-22]] #[[Reports/European State of the Climate 2023]] #[[2023]] #[[global heating]] #[[heat deaths]]
 - 📌 n. Schätzungen zufolge starben in den Sommern 2003, 2010 und 2022 jeweils zwischen 55.000 und 72.000 Menschen an den Folgen von Hitzewellen
   hid:: LflABgDdEe-HumdPV5u5EQ
   updated:: 2024-04-22T19:19:03.010180+00:00
