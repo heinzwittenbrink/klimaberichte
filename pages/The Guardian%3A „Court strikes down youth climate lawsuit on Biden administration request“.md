@@ -1,3 +1,4 @@
+public:: true
 hypothesis-uri:: https://www.theguardian.com/us-news/article/2024/may/02/youth-climate-lawsuit-juliana-appeals-court
 hypothesis-title:: Court strikes down youth climate lawsuit on Biden administration request
 hypothesis-naming-scheme:: 0.2.0

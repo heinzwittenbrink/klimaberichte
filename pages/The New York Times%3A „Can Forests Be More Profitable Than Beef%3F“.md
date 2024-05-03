@@ -1,3 +1,4 @@
+public:: true
 hypothesis-uri:: https://www.nytimes.com/2024/05/02/climate/amazon-reforestation.html
 hypothesis-title:: Can Forests Be More Profitable Than Beef?
 hypothesis-naming-scheme:: 0.2.0
