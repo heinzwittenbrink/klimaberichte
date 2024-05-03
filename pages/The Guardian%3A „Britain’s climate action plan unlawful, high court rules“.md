@@ -16,6 +16,6 @@
 - 📌 lawyer for [[Friends of the Earth]] , [[Katie de Kauwe]], said
   hid:: ixTX_AlaEe-_ghuGatRDDg
   updated:: 2024-05-03T14:36:35.611996+00:00
-- 📌 The environmental charities Friends of the Earth and ClientEarth took joint legal action with the Good Law Project against the Department for Energy Security and Net Zero (DESNZ) over its decision to approve the carbon budget delivery plan (CBDP) in March 2023.
+- 📌 The environmental charities Friends of the Earth and [[ClientEarth]] took joint legal action with the [[Good Law Project]] against the Department for Energy Security and Net Zero (DESNZ) over its decision to approve the carbon budget delivery plan (CBDP) in March 2023.
   hid:: 0rgsdglaEe-BoQu1jXvjMA
   updated:: 2024-05-03T14:38:35.748829+00:00
