@@ -4,7 +4,7 @@
 - 📌 This must ensure that the UK achieves its legally binding carbon budgets and its pledge to cut emissions by more than two-thirds by 2030, both of which the government is off track to meet.
   hid:: KcB1FglZEe-IK6MySt5pmQ
   updated:: 2024-05-03T14:26:42.817743+00:00
-- 📌 This breached section 13 of the Climate Change Act
+- 📌 This breached section 13 of the [[Climate Change Act]]
   hid:: -7yM7glZEe-kog_ts4xMhw
   updated:: 2024-05-03T14:32:35.046342+00:00
 - 📌 This comes after the Guardian revealed the government would be allowing oil and gas drilling under offshore wind turbines, a decision criticised by climate experts as “deeply irresponsible
