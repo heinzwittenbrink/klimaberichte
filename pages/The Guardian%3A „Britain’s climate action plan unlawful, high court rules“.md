@@ -1,8 +1,4 @@
-public:: true
-
 - 📝 Der britische High Court hat den Carbon Action Plan der Regierung als ungesetzlich zurückgewiesen. Er entsprach damit einer Klage mehrerer NGOs. Die Regierung muss nun einen Plan vorlegen, der die rechtlich verbindlichen co2-budgets respektiert und sicherstellt, dass die Emissionen bis 2030 um 2/3 sinken. Als sogenanntes sechstes Carbon Budget ist in Großbritannien ein Budget definiert, das bis 2037 die Höchstmenge der Emissionen festlegt. https://www.theguardian.com/environment/article/2024/may/03/britain-climate-action-plan-unlawful-high-court #[[country: Uk]] #[[institution: High Court]] #[[mode: legal action]] #[[by: Helena Horton]] #[[process: lowering of climate ambition]] #[[event: High Court verwirft Climate Action Plan der britischen Regierung]] #[[2024-05-03]]
-  hid:: EKKUzgk7Ee-Y97slOqtN3Q
-  updated:: 2024-05-03T14:43:33.576176+00:00
 - 📌 This must ensure that the UK achieves its legally binding carbon budgets and its pledge to cut emissions by more than two-thirds by 2030, both of which the government is off track to meet.
   hid:: KcB1FglZEe-IK6MySt5pmQ
   updated:: 2024-05-03T14:26:42.817743+00:00

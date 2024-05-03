@@ -1,8 +1,3 @@
-public:: true
-hypothesis-uri:: https://www.nytimes.com/2024/05/02/climate/amazon-reforestation.html
-hypothesis-title:: Can Forests Be More Profitable Than Beef?
-hypothesis-naming-scheme:: 0.2.0
-
 - 📝 Im nördlichen Amazonasgebiet versuchen Firmen, ein Geschäft aus der Wiederaufforstung zu machen und Carbon Credits für durch Bäume absorbiertes CO2 zu verkaufen. Vielfach wird erwartet, dass die Carbon Credits lukrativer sein werden als die Verwendung des Landes für die Viehzucht. Reportage der New York Times über die in vielen problematische Praxis, unter anderem auch über die Schwierigkeiten, die Wirkung der Bäume zu messen. https://www.nytimes.com/2024/05/02/climate/amazon-reforestation.html #[[by: Manuela Andreoni]] #[[2024-05-02]] #[[region: Amazonia]] #[[reforestation]] #[[Brazil]] #[[carbon credits]]
   hid:: CRNyOAizEe-drL-5I36i_A
   updated:: 2024-05-03T16:01:59.984473+00:00

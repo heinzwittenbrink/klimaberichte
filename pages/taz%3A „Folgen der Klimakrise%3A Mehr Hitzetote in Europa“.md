@@ -1,10 +1,4 @@
-hypothesis-uri:: https://taz.de/Folgen-der-Klimakrise/!6005690/
-hypothesis-title:: Folgen der Klimakrise: Mehr Hitzetote in Europa
-hypothesis-naming-scheme:: 0.2.0
-
 - 📝 Der europäische Klimaservice Copernicus und die Weltwetterorganisation WMO weisen in einem gemeinsamen Bericht darauf hin, dass die Zahl der Hitzetoten in Europa in 20 Jahren um 30% gestiegen ist. Der Bericht stellt 2023 detailliert als Jahr der Hitzerekorde da. https://taz.de/Folgen-der-Klimakrise/!6005690/
-  hid:: EkyLQgDdEe-5cPsfltB16A
-  updated:: 2024-05-03T15:04:21.949069+00:00
   
   Bericht: https://climate.copernicus.eu/esotc/2023 #[[2024-04-22]] #[[Reports/European State of the Climate 2023]] #[[2023]] #[[global heating]] #[[heat deaths]]
 - 📌 n. Schätzungen zufolge starben in den Sommern 2003, 2010 und 2022 jeweils zwischen 55.000 und 72.000 Menschen an den Folgen von Hitzewellen
