@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Studies" "Reports" "Processes" "Events"]
+ :favorites ["Reports" "Processes" "Events"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,4 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :zotero/settings-v2 {"default" {:zotero-data-directory "/home/heinz/snap/zotero-snap/common/Zotero", :page-insert-prefix "", :extra-tags "", :type-id "46463", :include-attachments? false}}}
+ :zotero/settings-v2 {"default" {:zotero-data-directory "/home/heinz/snap/zotero-snap/common", :page-insert-prefix "@", :extra-tags "", :type-id "46463"}}}

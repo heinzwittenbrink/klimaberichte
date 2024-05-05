@@ -1,0 +1,2 @@
+- [[Reports/Denial, Disinformation and Doublespeak: Big Oil's Evolving Efforts to Avoid Accountability for Climate Change]]
+  title:: ReportDenial, Disinformation and Doublespeak: Big Oil's Evolving Efforts to Avoid Accountability for Climate Changes/Denial, Disinformation and Doublespeak

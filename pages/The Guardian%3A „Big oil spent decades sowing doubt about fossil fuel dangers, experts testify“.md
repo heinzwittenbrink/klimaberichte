@@ -6,7 +6,7 @@ hypothesis-naming-scheme:: 0.2.0
   hid:: V_gQogiaEe-WgceVYaNUGg
   updated:: 2024-05-02T16:08:51.759344+00:00
   
-  Bericht; https://www.budget.senate.gov/imo/media/doc/fossil_fuel_report1.pdf #[[2024-05-01]] #[[topic: disinformation]] #[[country: USA]] #[[Reports/Denial, Disinformation and Doublespeak]] #[[expert: Kert Davies]] #[[institution: Center for Climate Integrity]] #[[expert: Geoffrey Supran]] #[[NGO: Climate Defiance]] #[[actor: American Petroleum Institute]] #[[Events/Debate about climate disinformation in the US senate April 2024]] #[[actor: Republican Party]]
+  Bericht; https://www.budget.senate.gov/imo/media/doc/fossil_fuel_report1.pdf #[[2024-05-01]] #[[topic: disinformation]] #[[country: USA]] #[[Reports/Denial, Disinformation and Doublespeak: Big Oil's Evolving Efforts to Avoid Accountability for Climate Change]] #[[expert: Kert Davies]] #[[institution: Center for Climate Integrity]] #[[expert: Geoffrey Supran]] #[[NGO: Climate Defiance]] #[[actor: American Petroleum Institute]] #[[Events/Debate about climate disinformation in the US senate April 2024]] #[[actor: Republican Party]]
 - 📌 “In my view, it should not be state government or the federal government having to pick up the bill,” said the Vermont senator Bernie Sanders. “I think it’s time to ask the people who caused that problem, who lied about that situation, to pick up the bill.”
   hid:: dfSX9giaEe-ybYORtdE9_Q
   updated:: 2024-05-02T15:41:36.743274+00:00
