@@ -1,0 +1,2 @@
+- https://secure.avaaz.org/campaign/en/climate_briefing_report/
+	- 2021-12-01
