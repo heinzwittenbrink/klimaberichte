@@ -1,0 +1,7 @@
+- /
+- [[Events/2021-11/Kongress-Subpoena gegen Verantwortliche der US-Fossilindustrie]]
+- type:: event
+- Beginn:: 2021-11
+- Ende::
+- Tags:: Desinformation
+- Bemerkungen::
