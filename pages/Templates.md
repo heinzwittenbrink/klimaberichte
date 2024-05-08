@@ -12,4 +12,13 @@
 	- Bemerkungen::
 -
 - Prozess
+- Variable
+- Issue
+	- <% current page %>
+	- type::
+	- Related::
+	- Einleitung::
+	- literature::
+- Land
+- Akteur:in
 -
