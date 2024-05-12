@@ -1,4 +1,4 @@
-tags:: [[disinformation]]
+tags:: [[Desinformation]]
 date:: 11/2021
 issn:: "0165-0009, 1573-1480"
 issue:: 1-2

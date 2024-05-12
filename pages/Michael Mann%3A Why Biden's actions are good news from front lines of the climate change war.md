@@ -1,4 +1,4 @@
-tags:: [[Biden administration]], [[disinformation]]
+tags:: [[Biden administration]], [[Desinformation]]
 date:: [[Feb 2nd, 2021]]
 title:: Michael Mann: Why Biden's actions are good news from front lines of the climate change war
 item-type:: [[newspaperArticle]]

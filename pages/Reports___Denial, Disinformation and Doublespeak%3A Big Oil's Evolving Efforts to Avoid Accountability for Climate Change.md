@@ -1,5 +1,5 @@
 institution:: United States Senate Committee on the Budget
-tags:: [[American Petroleum Institute (API)]], [[BP]], [[Big Oil]], [[Chevron]], [[ExxonMobil]], [[Shell]], [[disinformation]]
+tags:: [[American Petroleum Institute (API)]], [[BP]], [[Big Oil]], [[Chevron]], [[ExxonMobil]], [[Shell]], [[Desinformation]]
 date:: [[Apr 30th, 2024]]
 place:: "Washington, D.C"
 report-type:: Joint Staff Report
