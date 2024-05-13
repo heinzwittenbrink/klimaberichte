@@ -1,2 +1,2 @@
 type:: event
-beginn:: 2022-09
+beginn:: [[2022-09]]

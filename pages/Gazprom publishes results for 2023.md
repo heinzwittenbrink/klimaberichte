@@ -1,5 +1,5 @@
 type:: event
-beginn:: 2023-04
+beginn:: [[2023-04]]
 
 - Name::
 - Beginn::

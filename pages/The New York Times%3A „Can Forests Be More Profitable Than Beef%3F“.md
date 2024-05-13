@@ -1,6 +1,4 @@
 - 📝 Im nördlichen Amazonasgebiet versuchen Firmen, ein Geschäft aus der Wiederaufforstung zu machen und Carbon Credits für durch Bäume absorbiertes CO2 zu verkaufen. Vielfach wird erwartet, dass die Carbon Credits lukrativer sein werden als die Verwendung des Landes für die Viehzucht. Reportage der New York Times über die in vielen problematische Praxis, unter anderem auch über die Schwierigkeiten, die Wirkung der Bäume zu messen. https://www.nytimes.com/2024/05/02/climate/amazon-reforestation.html #[[by: Manuela Andreoni]] #[[2024-05-02]] #[[region: Amazonia]] #[[reforestation]] #[[Brazil]] #[[carbon credits]]
-  hid:: CRNyOAizEe-drL-5I36i_A
-  updated:: 2024-05-03T16:01:59.984473+00:00
 - 📌 The new company, which is also Mr. Araújo’s new employer, is a forest restoration business called Re.green
   hid:: tSUI_gllEe-HieN5S9G-kw
   updated:: 2024-05-03T15:56:30.636088+00:00

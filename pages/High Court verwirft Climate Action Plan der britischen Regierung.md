@@ -1,2 +1,2 @@
 type:: event
-beginn:: 2024-05
+beginn:: [[2024-05]]

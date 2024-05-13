@@ -1,5 +1,5 @@
 type:: event
-beginn:: 2024-05-01
+beginn:: [[2024-05-01]]
 
 - Name::
 - Ende::

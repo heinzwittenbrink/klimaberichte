@@ -2,7 +2,7 @@ date:: [[May 2nd, 2024]]
 issn:: "0028-0836, 1476-4687"
 issue:: 8010
 doi:: 10.1038/s41586-024-07274-7
-title:: Studies/Environmental drivers of increased ecosystem respiration in a warming tundra
+title:: Environmental drivers of increased ecosystem respiration in a warming tundra
 pages:: 105-113
 volume:: 629
 item-type:: [[journalArticle]]
