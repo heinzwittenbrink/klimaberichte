@@ -1,0 +1,1 @@
+- Gilt als das größte Ölfeld der Welt, siehe [[DerStandard: Wie Banken die Klimakrise mitfinanzieren]]

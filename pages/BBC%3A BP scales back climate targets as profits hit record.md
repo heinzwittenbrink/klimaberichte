@@ -1,0 +1,4 @@
+- 📝 BP hat seine Ziele bei der Reduktion der Öl- und Gasförderung deutlich reduziert. 2030 will man 23-30% weniger produzieren als jetzt, statt wie in älteren Plänen 35-40%. Greenpeace führt die Kursänderung auf den Druck von Investoren und Regierungen zurück. https://www.bbc.com/news/business-64544110 #[[BP weicht Pläne zur Reduzierung der Öl- und Gasproduktion auf]] #[[Lowering of climate ambition]] #[[Greenpeace]] #[[BP]]
+- 📌 Climate campaign group Greenpeace, whose voice the BBC has included because of the impact of oil and gas production on the environment, said BP's new strategy "seems to have been strongly undermined by pressure from investors and governments to make even more dirty money out of oil and gas".
+  hid:: mpIQcBH6Ee-JvgtEcJI_yw
+  updated:: 2024-05-14T14:02:29.966062+00:00

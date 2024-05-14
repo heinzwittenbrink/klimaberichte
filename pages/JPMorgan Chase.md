@@ -1,1 +1,1 @@
-type:: [[bank]]
+type:: [[banks]]
