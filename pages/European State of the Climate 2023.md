@@ -1,4 +1,3 @@
-- [[Reports/European State of the Climate 2023]]
 institution:: Copernicus Climate Change Service (C3S)
 date:: [[Apr 22nd, 2024]]
 extra:: DOI: 10.24381/BS9V-8C66

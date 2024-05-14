@@ -3,6 +3,3 @@ hypothesis-title:: World’s top climate scientists expect global heating to bla
 hypothesis-naming-scheme:: 0.2.0
 
 - 📝 80 % der Lead- und Review-Autore:innen der letzten IPCC-Berichte, die eine Guardianumfrage beantworteten, erwarten, dass die globale Durchschnittstemperatur bis 2100 um 2,5 oder mehr Grad steigt, etwa 50% rechnen mit mindestens 3°. Die Zahl der jüngeren und weiblichen Wissenschaftleri:nnen, die erwarten, dass die Temperaturen um 3° und mehr ansteigen, ist deutlich höher als bei den über 50-Jährigen und männlichen Befragen. Knapp die Hälfte der vom Guardian angesprochenen über 800 Autor:innen hat  geantwortet.  https://www.theguardian.com/environment/article/2024/may/08/world-scientists-climate-failure-survey-global-temperature #[[2024-05-08]] #[[by: Damian Carrington]] #[[IPCC]] #[[Gretta Pecl]] #[[Peter Cox]] #[[Jesse Keenan]] #[[Nathalie Hilmi]] #[[Monaco Scientific Centre]] #[[Leticia Cotrim da Cunha]] #[[Dipak Dasgupta]] #[[Energy and Resources Institute New Delhi]] #[[Henry Neufeldt]] #[[Copenhagen Climate Centre]] #[[Lisa Schipper]] #[[Guardian-Umfrage zur globalen Erhitzung bei IPCC-Lead- und Review-Autor:innen]] [[global heating]]
-- 📌 Only 6% thought the internationally agreed 1.5C (2.7F) limit would be met.
-  hid:: vz-amBBFEe-VUOOUDTsi1A
-  updated:: 2024-05-12T09:55:21.772255+00:00
