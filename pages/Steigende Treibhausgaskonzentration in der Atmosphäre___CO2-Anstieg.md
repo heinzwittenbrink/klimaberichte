@@ -1,4 +1,5 @@
 type:: process
+alias:: Ansteigen des Kohlendioxid-Gehalts der Atmosphäre,
 
 - Infografiken:
   ![](https://gml.noaa.gov/webdata/ccgg/trends/co2_data_mlo.png)
