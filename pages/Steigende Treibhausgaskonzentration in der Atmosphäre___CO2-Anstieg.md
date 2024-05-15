@@ -1,3 +1,5 @@
+type:: process
+
 - Infografiken:
   ![](https://gml.noaa.gov/webdata/ccgg/trends/co2_data_mlo.png)
   ![](https://gml.noaa.gov/webdata/ccgg/trends/co2_trend_mlo.png)
