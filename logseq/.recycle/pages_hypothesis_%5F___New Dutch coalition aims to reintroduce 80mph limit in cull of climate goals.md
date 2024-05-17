@@ -1,0 +1,6 @@
+hypothesis-uri:: https://www.theguardian.com/world/article/2024/may/16/new-dutch-coalition-aims-to-reintroduce-80mph-limit-in-cull-of-climate-goals
+hypothesis-title:: New Dutch coalition aims to reintroduce 80mph limit in cull of climate goals
+hypothesis-naming-scheme:: 0.2.0
+
+- 📝 The Guardian: Die Parteien, die die neue niederländische Rechtsregierung unterstützen, haben sich auf ein Arbeitsprogramm geeinigt. Wichtige klimapolitische Maßnahmen werden zurückgenommen. So soll die Höchstgeschwindigkeit auf Autobahnen wieder 130 km/h betragen; Agrardiesel wird wieder subventioniert. Bei der Installation von Wärmepumpen verzichtet man auf Zielwerte. Es sollen 4 Atomkraftwerke gebaut werden. Was die Regierung durchsetzen kann, ist noch unklar. [New Dutch coalition aims to reintroduce 80mph limit in cull of climate goals](https://www.theguardian.com/world/article/2024/may/16/new-dutch-coalition-aims-to-reintroduce-80mph-limit-in-cull-of-climate-goals) #[[Netherlands]] #[[Zurücknahme von Klimazielen durch neue Koalition in den Niederlanden]] #[[Lowering of climate ambition]]
+  id:: 66471d40-76cb-483e-9fd6-e4ecff2f4eb2
