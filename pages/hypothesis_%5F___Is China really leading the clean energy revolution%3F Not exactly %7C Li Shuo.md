@@ -2,7 +2,7 @@ hypothesis-uri:: https://www.theguardian.com/commentisfree/2023/jul/06/china-cle
 hypothesis-title:: Is China really leading the clean energy revolution? Not exactly | Li Shuo
 hypothesis-naming-scheme:: 0.2.0
 
-- 📝  #[[expert: Li Shuo]] #[[country: China]] #[[process: energy transition]] #[[process: expansion of wind energy]] #[[2023-07-06]]
+- 📝  #[[expert: Li Shuo]] #[[China]] #[[process: energy transition]] #[[process: expansion of wind energy]] #[[2023-07-06]]
   hid:: yyiwhhw3Ee6OtftqF-9_FQ
   updated:: 2023-11-09T08:41:15.653967+00:00
 - 📌 China’s solar capacity is now 228 gigawatts (GW), more than the rest of the world combined, according to Global Energy Monitor

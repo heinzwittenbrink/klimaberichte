@@ -1,5 +1,5 @@
-institution:: National Bureau of Economic Research
-tags:: [[Wirtschaftliche  Folgen]]
+institution:: [[National Bureau of Economic Research]]
+tags:: [[Wirtschaftliche Schäden]]
 date:: 05/2024
 place:: "Cambridge, MA"
 extra:: DOI: 10.3386/w32450
@@ -13,9 +13,8 @@ url:: http://www.nber.org/papers/w32450.pdf
 short-title:: The Macroeconomic Impact of Climate Change
 authors:: [[Adrien Bilal]], [[Diego Känzig]]
 library-catalog:: DOI.org (Crossref)
-links:: [Local library](zotero://select/library/items/5TE6F56B), [Web library](https://www.zotero.org/users/46463/items/5TE6F56B)
-report-number:: w32450
 
+- Anmerkungen aus der Einleitung auf der Website:
 - [[Notes]]
 	- # Anmerkungen 
 	   (18.5.2024, 12:27:34)

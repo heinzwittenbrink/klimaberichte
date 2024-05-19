@@ -1,0 +1,5 @@
+- 📝 Die Zeit: Interview mit Leonore Gewessler zur Abhängigkeit Österreichs von russischem Gas. Es wird deutlich, dass der Umstieg auf andere Lieferanten bisher an der OMV und ihren Verbündeten wie der Wirtschaftskammer und der Industriellenvereinigung scheitert. https://www.zeit.de/2024/22/gasimporte-russland-oesterreich-leonore-gewessler-gazprom/komplettansicht #[[OMV]] #[[Österreich]] #[[E-Control]]  #[[Russland]] #[[Leonore Gewessler]] #[[Gazprom]] #[[Wirtschaftskammer Österreich]] #[[Insustriellenvereinigung]]
+  id:: 66471e84-3026-443e-9962-8ad240afb449
+  Event: [[Gesetzentwurf zur Diversifizierungspflich für Gasversorger]]
+	- 📌 Zitat: Gewessler: Wir haben erstens Energieversorger, die zu 100 Prozent im Eigentum der Bundesländer sind, die schon jetzt aus dem russischen Gas aussteigen können
+-

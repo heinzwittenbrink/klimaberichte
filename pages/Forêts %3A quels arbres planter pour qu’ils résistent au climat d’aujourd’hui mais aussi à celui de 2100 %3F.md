@@ -1,0 +1,5 @@
+- 📝 Eine neue Studie zeigt, dass nur wenige Baumarten sowohl den klimatischen Bedingungen der Gegenwart wie den für 2100 zu erwartenden gewachsen sind. Von den gängigsten 69 Baumarten können nur neun pro Quadratkilometer unter den zukünftigen Bedingungen überleben – was Aufforstungsprojekte viel mehr erschwert als bisher angenommen. Bei dieser Studie werden allerdings die Interaktionen zwischen den Bäumen und eine dadurch möglicherweise vergrößerte Anpassungsfähigkeit nicht berücksichtigt.
+id:: 6644b6e8-5660-4915-a9aa-3b7fd1f8a1eb
+  https://www.liberation.fr/environnement/biodiversite/forets-quels-arbres-planter-pour-quils-resistent-au-climat-daujourdhui-mais-aussi-a-celui-de-2100-20240515_XZHQZ32BNJALHMOVJEOAKOU4WQ/ #[[Johannes Wessely]] #[[Xavier Morin]] #[[Centre d’écologie fonctionnelle et évolutive]] [[Auswirkungen der globalen Erhitzung auf den Wald]]
+  [[A climate-induced tree species bottleneck for forest management in Europe]]
+	- 📌 Zitat: „Pour Xavier Morin, il faut, quand cela est possible, privilégier les arbres existants, même dépérissants, car ils donnent des nutriments aux jeunes pousses“

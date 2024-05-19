@@ -1,0 +1,28 @@
+- 📝 Guardian-Bericht: Das globale Durchschnittseinkommen wird bei der jetzt zu erwartenden globalen Erhitzung 2050 fast um ein Fünftel niedriger sein als ohne Erhitzung. Die (nicht mehr zu vermeidenden) Einbußen durch die Erhitzung bis 2050 sind sechsmal so hoch wie die Kosten einer Begrenzung des Temperaturanstiegs auf 2°. 2050 ist dieser Studie zufolge mit Klimaschäden von etwa 38 Billionen Dollar zu rechnen. Bis 2100 wird es in einem Business-as-usual-Szenario zu Einkommensverlusten von mehr als 60% kommen. https://www.theguardian.com/environment/2024/apr/17/climate-crisis-average-world-incomes-to-drop-by-nearly-a-fifth-by-2050 #[[by: Jonathan Watts]] #[[Leonie Wenz]] #[[Potsdam Institute for Climate Impact Research]] #[[Maximilian Kotz]] #[[Andreas Levermann]] #[[2024-04-17]] #[[The economic commitment of climate change]] #[[Wirtschaftliche Schäden]]
+  id:: 6648a9b0-08be-4f90-85d8-79454647ef7c
+	- 📌 Zitat: This will inflict crippling losses on almost every country, with a disproportionately severe impact on those least responsible for climate disruption, further worsening inequality.
+	- 📌 Zitat:  In the United States and Europe the reduction will be about 11%, while in Africa and south Asia it will be 22%, with some individual countries much higher than this.
+	- 📌 Zitat: The economic hit predicted by the paper is more than twice as high as any previous analysis. Behind that difference is a more sophisticated methodology.
+	- 📌 Zitat: the new paper also incorporated rainfall and extreme weather impacts using 40 years of data from 1,600 subnational regions.
+	- 📌 Zitat: There are many major climate impacts that have not yet been incorporated into the analysis, including heatwaves, sea level rise, tropical cyclones, tipping points, and damage to natural ecosystems and human health.
+- *Zitate aus der Presseaussendung des [[Potsdam Institute for Climate Impact Research]]*:  (https://www.pik-potsdam.de/de/aktuelles/nachrichten/38-billionen-dollar-schaeden-pro-jahr-19-einkommensverlust-weltweit-durch-klimawandel)
+	- 📌 Zitat:  Selbst wenn Treibhausgas-Emissionen ab heute drastisch reduziert würden, müsste die Weltwirtschaft aufgrund des Klimawandels bis 2050 bereits mit einem Einkommensverlust von 19 Prozent rechnen, so eine jetzt in der Fachzeitschrift Nature veröffentlichte Studie. #Wohlstandsverlust
+	  id:: 6649caa4-02e3-4099-8418-d7883fc60dd0
+	- 📌 Zitat: „Für die meisten Regionen, darunter Nordamerika und Europa, werden hohe Einkommensverluste prognostiziert, wobei Südasien und Afrika am stärksten betroffen sind“, sagt PIK-Forscher und Erstautor der Studie [[Maximilian Kotz]].
+	  id:: 6649caa4-4a6d-4fb8-9d93-1035f06c3ea1
+	- 📌 Zitat: Insgesamt schätzen die Forschenden die jährlichen Schäden im Jahr 2050 auf weltweit rund 38 Billionen. „Diese Schäden resultieren hauptsächlich aus dem Temperaturanstieg, aber auch aus Veränderungen bei den Niederschlägen und der Temperaturvariabilität. Die Berücksichtigung anderer Wetterextreme wie Stürme oder Waldbrände könnte sie noch weiter erhöhen", so Kotz.
+	  id:: 6649caa4-0d7f-4d8d-8626-fe38001f0cd5
+	- 📌 Zitat:  Wenn wir zumindest einige davon vermeiden wollen, brauchen wir mehr Anpassungsmaßnahmen. Zusätzlich müssen wir unsere CO2-Emissionen drastisch und sofort reduzieren - andernfalls werden die wirtschaftlichen Verluste in der zweiten Hälfte des Jahrhunderts noch höher sein und bis Ende des Jahrhunderts im globalen Durchschnitt bis zu 60 Prozent betragen
+	  id:: 6649caa4-febe-4346-b37a-d67f6abb3bed
+	- 📌 Zitat: Es kostet uns viel weniger, das Klima zu schützen, als dies nicht zu tun – und zwar selbst dann, wenn man nur rein wirtschaftliche Auswirkungen berücksichtigt und weitere Folgen wie die Verluste von Menschenleben oder der biologischen Vielfalt außen vor lässt.“
+	  id:: 6649caa4-58de-49ad-9b79-36a0f48f653f
+	- 📌 Zitat: Bisherige Prognosen der durch den Klimawandel verursachten globalen wirtschaftlichen Schäden haben sich hauptsächlich auf die Folgen des Anstiegs der Jahresmitteltemperatur auf Länderebene fokussiert und  lange Zeiträume betrachtet.
+	  id:: 6649caa4-18c6-4631-8d7d-fad691fc6083
+	- 📌 Zitat:  hingegen neueste empirische Erkenntnisse darüber, wie Wetterextreme und -änderungen das Wirtschaftswachstum in mehr als 1.600 subnationalen Regionen weltweit in den letzten 40 Jahren beeinflusst haben. Auf diese Weise konnten die Forschenden die durch Temperatur- und Niederschlagsveränderungen zu erwartenden zukünftigen Schäden zeitlich und räumlich sehr detailliert beziffern.
+	  id:: 6649caa4-7486-43e1-ab69-c673acb3283e
+	- 📌 Zitat: berücksichtigten sie, wie lange sich die Klimafolgen in der Vergangenheit auf die Wirtschaft ausgewirkt haben. Indem sie sich dann auf die nächsten 26 Jahren konzentrierten, konnten sie Unsicherheiten reduzieren, die mit langfristigen Projektionen verbunden sind.
+	  id:: 6649caa4-2035-434c-b248-75d812b35026
+	- 📌 Die Länder, die am wenigsten für den Klimawandel verantwortlich sind, werden voraussichtlich Einkommensverluste erleiden, die 60 Prozent höher sind als in den Ländern mit höherem Einkommen und 40 Prozent höher als in den Ländern mit höheren Emissionen. Sie verfügen auch über die geringsten Ressourcen, um sich an die Klimafolgen anzupassen
+	  id:: 6649caa4-b7f3-4724-aa4b-cfe5f2f09469
+	- 📌 Zitat: Wenn wir so weitermachen wie bisher, wird der Klimawandel zu katastrophalen Folgen führen. Die Temperatur des Planeten kann nur stabilisiert werden, wenn wir aufhören Öl, Gas und Kohle zu verbrennen", sagt [[Anders Levermann]], Leiter der Forschungsabteilung Komplexitätsforschung am PIK und Autor der Studie.
+	  id:: 6649caa4-7b59-40c6-b4cb-1bef0170d6df

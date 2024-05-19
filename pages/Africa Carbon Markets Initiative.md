@@ -1,2 +1,2 @@
 alias:: ACMI
-tags:: Africa
+tags:: Afrika

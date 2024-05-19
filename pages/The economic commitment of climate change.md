@@ -1,4 +1,4 @@
-tags:: [[Wirtschaftliche  Folgen]]
+tags:: [[Wirtschaftliche Schäden]]
 date:: [[Apr 18th, 2024]]
 issn:: "0028-0836, 1476-4687"
 issue:: 8008
