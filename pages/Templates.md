@@ -1,24 +1,17 @@
-- Event
+template:: inline_literature_note
+({author} {year})
+
+- template:: citation _page
+  alias:: {author lastname} ({year}) {title}
+  tags:: [[publication]], [[Logseq citation manager]], 
+  type:: {type};
+  status:: 
+  icon:: 📚
   
-  type::
-  template:: Event
-  template-including-parent:: false
-	- <% current page %>
-	- type::
-	- Name::
-	- Beginn::
-	- Ende::
-	- Tags::
-	- Bemerkungen::
--
-- Prozess
-- Variable
-- Issue
-	- <% current page %>
-	- type::
-	- Related::
-	- Einleitung::
-	- literature::
-- Land
-- Akteur:in
--
+  - *{title}*. {publisher}.
+  	- {author}, {year}.
+  - Abstract:
+  	- {abstract}
+  - Notes
+  	- {notes+}
+  ```

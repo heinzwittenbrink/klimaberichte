@@ -1,1 +1,1 @@
-alias:: Gesundheitliche Folgen
+alias:: Gesundheitliche Folgen, Gesundheitliche Klimafolgen
