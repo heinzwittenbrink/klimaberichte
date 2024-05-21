@@ -1,23 +1,21 @@
 -
--
-date:: [[May 21st, 2024]]
-issn:: "0027-8424, 1091-6490"
-issue:: 21
-doi:: 10.1073/pnas.2319652121
-title:: Southern Ocean drives multidecadal atmospheric CO2 rise during Heinrich Stadials/sub>/sub> rise during Heinrich Stadials
-pages:: e2319652121
-volume:: 121
-item-type:: [[journalArticle]]
-access-date:: 2024-05-15T09:17:14Z
-original-title:: Southern Ocean drives multidecadal atmospheric CO <sub>2</sub> rise during Heinrich Stadials
-language:: en
-url:: https://pnas.org/doi/10.1073/pnas.2319652121
-publication-title:: Proceedings of the National Academy of Sciences
-journal-abbreviation:: Proc. Natl. Acad. Sci. U.S.A.
-authors:: [[Kathleen A. Wendt]], [[Christoph Nehrbass-Ahles]], [[Kyle Niezgoda]], [[David Noone]], [[Michael Kalk]], [[Laurie Menviel]], [[Julia Gottschalk]], [[James W. B. Rae]], [[Jochen Schmitt]], [[Hubertus Fischer]], [[Thomas F. Stocker]], [[Juan Muglia]], [[David Ferreira]], [[Shaun A. Marcott]], [[Edward Brook]], [[Christo Buizert]]
-library-catalog:: DOI.org (Crossref)
-links:: [Local library](zotero://select/library/items/TK93SW7S), [Web library](https://www.zotero.org/users/46463/items/TK93SW7S)
-
+- date:: [[May 13th, 2024]]
+  issn:: "0027-8424, 1091-6490"
+  issue:: 21
+  doi:: 10.1073/pnas.2319652121
+  title:: Southern Ocean drives multidecadal atmospheric CO2 rise during Heinrich Stadials/sub>/sub> rise during Heinrich Stadials
+  pages:: e2319652121
+  volume:: 121
+  item-type:: [[journalArticle]]
+  access-date:: 2024-05-15T09:17:14Z
+  original-title:: Southern Ocean drives multidecadal atmospheric CO <sub>2</sub> rise during Heinrich Stadials
+  language:: en
+  url:: https://pnas.org/doi/10.1073/pnas.2319652121
+  publication-title:: Proceedings of the National Academy of Sciences
+  journal-abbreviation:: Proc. Natl. Acad. Sci. U.S.A.
+  authors:: [[Kathleen A. Wendt]], [[Christoph Nehrbass-Ahles]], [[Kyle Niezgoda]], [[David Noone]], [[Michael Kalk]], [[Laurie Menviel]], [[Julia Gottschalk]], [[James W. B. Rae]], [[Jochen Schmitt]], [[Hubertus Fischer]], [[Thomas F. Stocker]], [[Juan Muglia]], [[David Ferreira]], [[Shaun A. Marcott]], [[Edward Brook]], [[Christo Buizert]]
+  library-catalog:: DOI.org (Crossref)
+  links:: [Local library](zotero://select/library/items/TK93SW7S), [Web library](https://www.zotero.org/users/46463/items/TK93SW7S)
 - [[Abstract]]
 	- The last glacial period was punctuated by cold intervals in the North Atlantic region that culminated in extensive iceberg discharge events. These cold intervals, known as Heinrich Stadials, are associated with abrupt climate shifts worldwide. Here, we present CO
 	                2
