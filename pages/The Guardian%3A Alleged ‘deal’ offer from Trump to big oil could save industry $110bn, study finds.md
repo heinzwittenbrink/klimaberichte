@@ -1,3 +1,6 @@
+Erschienen:: 2024-05-16
+Genre:: Hintergrundbericht
+
 - 📝 Guardian-Bericht: Donald Trump hatte Big-Oil Managern angeboten, klimapolitische Maßnahmen der Biden-Administration rückgängig zu machen, wenn sie seinen Wahlkampf mit einer Milliarde Dollar unterstützen. Einer Studie des Guardian zufolge können die Ölkonzerne von Trump vor allem 110 Milliaren Dollar Subventionen (u.a. Steuererleichterungen für neue fossile Projekte) erwarten, die die Biden-Regierung abschaffen will. Hintergrundartikel zu Lobbyisten im US-Ölgeschäft und aktuellen Konflikten. (https://www.theguardian.com/us-news/article/2024/may/16/donald-trump-big-oil-executives-alleged-deal-explained) #[[by: Oliver Milman]] #[[by: Dharna Noor]] #[[Chevron]] #[[Exxon]] #[[Donald Trump]] #[[Occidental Petroleum]] #[[Lukas Ross]] #[[Friends of the Earth]] #[[fossil expansion]] #[[ConocoPhillips]] #[[Cheniere]] #[[American Petroleum Institute (API)]] #[[Fossil lobbying]] #[[Oil and Gas Climate Initiative]] #[[Kert Davies]] #[[Venture Global]] #[[Chesapeake Energy]] #[[Climate Power]] #[[United Refining Company]] #[[JD Vance]] #[[Joe Craft]] #[[Korruption]] #[[USA]]
   id:: 6646eda8-6fa3-450a-b6d5-7788da79412a
   Event: [[Spenden-Dinner Donald Trumps mit Big Oil-Managern]]

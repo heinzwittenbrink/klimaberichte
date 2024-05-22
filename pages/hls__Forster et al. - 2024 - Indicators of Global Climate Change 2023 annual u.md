@@ -1,0 +1,59 @@
+file:: [Forster et al. - 2024 - Indicators of Global Climate Change 2023 annual u.pdf](file:///home/heinz/Zotero/storage/6A4TGI24/Forster et al. - 2024 - Indicators of Global Climate Change 2023 annual u.pdf)
+file-path:: file:///home/heinz/Zotero/storage/6A4TGI24/Forster et al. - 2024 - Indicators of Global Climate Change 2023 annual u.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 664ddf3c-96cf-46ce-9581-d2d67cf31d6f
+  hl-type:: area
+  hl-stamp:: 1716379450541
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 664def64-ee26-457a-8dca-8c952233b991
+  hl-type:: area
+  hl-stamp:: 1716383584453
+- [:span]
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 664defe1-8f72-4086-a713-0975666dc252
+  hl-type:: area
+  hl-stamp:: 1716383711914
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 664df262-d2a5-4569-a7ca-0d6c2d6571f8
+  hl-type:: area
+  hl-stamp:: 1716384352016
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 664df3e5-a22b-426d-8b60-b3e779bb5002
+  hl-type:: area
+  hl-stamp:: 1716384739998
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 664df524-ddb3-4829-be74-ca9114cbf020
+  hl-type:: area
+  hl-stamp:: 1716385058639
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 664df5bb-b81e-421c-9dc1-ece8d39ad4d4
+  hl-type:: area
+  hl-stamp:: 1716385209175
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 664df671-dec2-4831-8fec-6f4acde67210
+  hl-type:: area
+  hl-stamp:: 1716385399289

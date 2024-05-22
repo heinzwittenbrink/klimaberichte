@@ -13,7 +13,6 @@ short-title:: The 2023 state of the climate report
 publication-title:: BioScience
 authors:: [[William J Ripple]], [[Christopher Wolf]], [[Jillian W Gregg]], [[Johan Rockström]], [[Thomas M Newsome]], [[Beverly E Law]], [[Luiz Marques]], [[Timothy M Lenton]], [[Chi Xu]], [[Saleemul Huq]], [[Leon Simons]], [[Sir David Anthony King]]
 library-catalog:: DOI.org (Crossref)
-links:: [Local library](zotero://select/library/items/YGU5JWDP), [Web library](https://www.zotero.org/users/46463/items/YGU5JWDP)
 
 - [[Notes]]
 	- # 28   [The 2023 state of the climate report: Entering uncharted territory](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biad080/7319571)  academic.oup.com

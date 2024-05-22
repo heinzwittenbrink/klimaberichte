@@ -1,0 +1,9 @@
+Erschienen:: 2024-05-20
+Genre:: Studienbericht
+
+- 📝 Zusammenfassung: In über einem Drittel des Amazonasgebiets hat sich das jährliche Wachstum der Vegetation deutlich verlangsamt, wie eine Analyse der Aufnahmen der Baumkronen durch Satelliten zeigt. Eine Hauptursache dafür sind vier gravierende Dürren in den letzten 20 Jahren. Unterhalb der Baumkronen sind die Schädigungen sehr wahrscheinlich noch weit gravierender. Der Kipppunkt, bei dem der Wald von einer CO2-Senke zu einer CO2-Quelle wird, könnte im Süden des Gebiets bald erreicht werden.
+  https://www.theguardian.com/environment/article/2024/may/20/more-than-third-of-amazon-rainforest-struggling-to-recover-from-drought-study-finds #[[Johanna Van Passel]] #[[Waldschädigung]] #[[Steigende Dürre-Risiken]] #[[Amazonas-Regenwald]]
+  Studie: [[Critical slowing down of the Amazon forest after increased drought occurrence]]
+- 📌 Zitat: They found 37% of the mature vegetation in the region exhibited a slowing-down trend. While the patterns varied from area to area, they concluded that the highly deforested and degraded south-eastern Amazon was most vulnerable to a “tipping event”: in other words, a calamitous decline of the tropical rainforest to a different, drier state.
+- 📌 Zitat: “It makes me very worried about the future of the Amazon,” Van Passel said. “It is a warning sign that a tipping point can be reached in the future if these droughts continue to increase and get more intense.”
+- 📌 Zitat: The paper warns the change in the internal rain cycle in the affected areas “may trigger a cascading effect, potentially leading to further slowing down in other parts of the Amazon forest, with implications for global effects on other tipping points”.
