@@ -1,0 +1,7 @@
+Erschienen:: 2024-05-17
+Genre:: News
+
+- 📝 Das Oberverwaltungsgericht Berlin-Brandenburg hat das aktuelle Klimaschutzprogramm der deutschen Bundesregierung für rechtswidrig erklärt, da mit ihm die Ziele des Klimaschutzgesetzes nicht erreicht werden können. https://taz.de/Bundesregierung-verurteilt/!6011208/ #[[Deutschland]] #[[Regierungsprogramme]] #[[Klimaprozesse]] #[[Deutsche Umwelthilfe]] #[[Klagen der Deutschen Umwelthilfe gegen das Klimaschutzprogramm der Bundesregierung 2023]] #[[Klimaschutzprogramm 2023 der Deutschen Bundesregierung]] #[[Expertenrat der deutschen Bundesregierung]] #[[Urteil des Oberverwaltungsgerichts Brandenburg gegen das Klimaschutzprogramm der deutschen Bundesregierung]] #[[Aufweichung des deutschen Klimaschutzgesetzes]] #[[Urteil des Bundesverfassungsgerichts gegen das Klimaschutzgesetz der Bundesrepublik]] #[[Bundes-Klimaschutzgesetz]]
+- 📌 Zitat: Noch unklar ist, ob die Ampel-Regierung nach dem Urteil des Oberverwaltungsgerichts in Revision geht. Jedenfalls werkelt sie gerade nicht an einem vernünftigen Klimaschutzprogramm für den Verkehr – sondern im Gegenteil an der Entkernung des Klimaschutzgesetzes.
+- {{embed ((664e132f-5b3b-41de-9f2d-0903ce52837e))}}
+-
