@@ -1,0 +1,5 @@
+Erschienen:: 2024-04-29
+Genre:: News
+
+- 📝 Vor einem Untersuchungsausschuss des französischen Senats hat sich der Chef von TotalEnergies, Pouyanné, mit den Standard-Argumenten von Big Oil gegen den Vorwurf gewehrt, die globale Erhitzung anzutreiben: Man befriedige nur die Nachfrage, nach fossilen Energien, senke den CO2-Ausstoß bei der Förderung, investiere auch in erneuerbare Energien und sei unverzichtbar, um die Energiewende zu vollziehen. https://www.liberation.fr/environnement/climat/totalenergies-interroge-au-senat-patrick-pouyanne-defend-ses-investissements-dans-le-fossile-20240429_Z5PVIU62UZDR3N2IKVRVW3UXJA/ #[[France]] #[[TotalEnergies]] #[[Untersuchung des französischen Senats zu TotalEnergies]] #[[Patrick Pouyanné]] #[[by: Sascha Garcia]] #[[EACOP]] #[[Uganda]] #[[Tanzania]] #[[disinformation]] #[[Big Oil]]
+-

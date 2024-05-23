@@ -1,7 +1,0 @@
-hypothesis-uri:: https://www.liberation.fr/environnement/climat/totalenergies-interroge-au-senat-patrick-pouyanne-defend-ses-investissements-dans-le-fossile-20240429_Z5PVIU62UZDR3N2IKVRVW3UXJA/
-hypothesis-title:: TotalEnergies : interrogé au Sénat, Patrick Pouyanné défend ses investissements dans le fossile
-hypothesis-naming-scheme:: 0.2.0
-
-- 📝 Vor einem Untersuchungsausschuss des französischen Senats hat sich der Chef von TotalEnergies, Pouyanné, mit den Standard-Argumenten von Big Oil gegen den Vorwurf gewehrt, die globale Erhitzung anzutreiben: Man befriedige nur die Nachfrage, nach fossilen Energien, senke den CO2-Ausstoß bei der Förderung, investiere auch in erneuerbare Energien und sei unverzichtbar, um die Energiewende zu vollziehen. https://www.liberation.fr/environnement/climat/totalenergies-interroge-au-senat-patrick-pouyanne-defend-ses-investissements-dans-le-fossile-20240429_Z5PVIU62UZDR3N2IKVRVW3UXJA/ #[[country: France]] #[[date: 2024-04-29]] #[[actor: TotalEnergies]] #[[event: French Senate Commission Inquiry into TotalEnergies]] #[[actor: Patrick Pouyanné]] #[[by: Sascha Garcia]] #[[Project: EACOP]] #[[country: Uganda]] #[[country: Tanzania]] #[[topic: desinformation]]
-  hid:: NYjXHAhkEe-5zwclllFvtg
-  updated:: 2024-05-02T15:28:01.315798+00:00
