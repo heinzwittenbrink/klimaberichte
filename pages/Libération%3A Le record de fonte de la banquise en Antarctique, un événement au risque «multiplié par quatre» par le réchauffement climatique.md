@@ -1,0 +1,4 @@
+- erschienen::-2024-05-20
+  Genre:: Studienbericht
+- 📝 2023 ist so viel antarktisches Meereis geschmolzen wie nie zuvor seit Messbeginn. Es bedeckte 2 Millionen Quadratkilometer weniger als im langjährigen Durchschnitt, das entspricht der vierfachen Oberfläche Frankreichs. Ein Abschmelzen in diesem Ausmaß ist durch die globale Erhitzung deutlich wahrscheinlicher geworden, wie eine neue Studie der British Antarctic Survey zeigt. https://www.liberation.fr/environnement/climat/le-record-de-fonte-de-la-banquise-en-antarctique-un-evenement-au-risque-multiplie-par-quatre-par-le-rechauffement-climatique-20240520_LVEG42DUB5BONPRXYZDTGWQJTQ/ #[[Attribution]] #[[British Antarctic Survey]] #[[Antarctic]] #[[Meereisverlust]] #[[Rachel Diamond]] #[[Louise Sime]]
+  Studie: [[CMIP6 Models Rarely Simulate Antarctic Winter Sea‐Ice Anomalies as Large as Observed in 2023]]

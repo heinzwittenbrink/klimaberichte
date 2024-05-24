@@ -1,0 +1,2 @@
+alias:: INRAE
+type:: [[institution]]

@@ -1,0 +1,7 @@
+Erschienen:: 2024-05-21
+Genre:: Studienbericht
+
+- 📝 Seit 1970 ist der Bestand an Fischen, die zu wandernde Arten gehören, um 80% gesunken, wie ein neuer Bericht zur Aktualisierung des Living Planet Index zeigt. Verantwortlich ist vor allem die Zerstörung von Fluss- und anderen Wasserökosystemen durch Staudämme, Bergwerke und Schadstoffe. Der Populationsrückgang ist weltweit am deutlichsten ist der in Südamerika und der Karibik. Ein Viertel der Süßwasser Fischarten ist vom Aussterben bedroht. https://www.theguardian.com/environment/article/2024/may/21/living-planet-index-migratory-freshwater-fish-populations-decline-dams-weirs-mining-water-abstraction-pollution-threat-aoe #[[by: Phoebe Weston]] #[[Biodiversitätsverlust]] #[[Herman Wanningen]] #[[World Fish Migration Foundation]] #[[International Union for Conservation of Nature]] #[[Michele Thieme]] #[[David Jacoby]] #[[Institut national de recherche pour l'agriculture, l'alimentation et l'environnement]] #[[Anthony Acou]]
+  Bericht: [[The Living Planet Index (LPI) for migratory freshwater fishes 2024 update]] 
+  updated:: 2024-05-24T07:07:53.108931+00:00
+- 📌 Zitat: it was also important to consider “pressures such as oceanic current modification, decrease of productivity, offshore windfarms, climate change [and] bycatch”
