@@ -1,0 +1,10 @@
+Erschienen:: 2024-05-31
+Genre:: Reportage
+
+- 📝 Dem Global Energy Monitor zufolge sollen in den kommenden Jahren 1,5 Billionen Dollar in LNG Terminals und Pipelines investiert werden. 20% dieser Summe sind für Europa geplant und hier wiederum ein großer Teil für Anlagen in Griechenland. Die USA lobbyieren in Mittel- und Südosteuropa intensiv, um ihr LNG dort zu verkaufen. Der subventionierte Aufbau von Gasinfrastruktur übersteigt den europäischen Bedarf bei weitem. Reportage in der New York Times zum Gasboom in Griechenland. https://www.nytimes.com/2024/05/31/climate/greece-europe-natural-gas-lng.html #[[Greece]] #[[Energiewende]] #[[fossil expansion]] #[[LNG]] #[[Global Energy Monitor]] #[[US-Moratorium für neue LNG-Terminals]] #[[project: Revithoussa]] #[[project: Alexandropoulis]] #[[event: Fifth New York - Eastern Mediterranean Business Summit]] #[[Antonio Tricarico]] #[[ReCommon]] #[[region: Balkan]] #[[Nord Mazedonien]] #[[Serbien]] #[[Bulgarien]] #[[Albanien]] #[[Institute for Energy Economics and Financial Analysis]] #[[ACER European LNG Market Monitoring Report (MMR)]] #[[Global LNG Outlook 2024-2028]] #[[WWF]] #[[Theodota Nantsou]] #[[by: Max Bearak]]
+  hid:: UZxMbh-NEe-XlFt0jKt_Yg
+  updated:: 2024-06-01T08:05:35.794270+00:00
+- 📌 Zitat: But ​now Greece​ is deliberately pivoting back toward fossil fuels, just not to burn at home.
+- 📌 Zitat: In coming years, nearly a trillion and a half dollars will go into constructing pipelines and terminals, according to Global Energy Monitor. Twenty percent of that spending is in Europe.
+- 📌 Zitat: The real money will be made by American gas companies. Since Russia’s invasion of Ukraine, the United States has more than doubled its exports of liquefied natural gas, or L.N.G., to Europe, amounting to nearly $100 billion in trade
+- 📌 Zitat: If those forecasts prove to be correct, then Europe is currently channeling public funding toward gas projects it knows it won’t make money, in the name of geopolitics

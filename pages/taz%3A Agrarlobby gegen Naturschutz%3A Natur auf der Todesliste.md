@@ -1,0 +1,7 @@
+Erschienen:: 2024-05-31
+Genre:: Hintergrundbericht
+
+- 📝 Die taz zum Torpedieren des Green Deal und besonders des EU-Renaturierungsgesetzes durch die EVP und über die Rolle Manfred Webers. https://taz.de/Agrarlobby-gegen-Naturschutz/!6012538/ #[[Deutschland]] #[[Nature Restoration Law]] #[[NGO: NABU]] #[[Tilmann Disselhof]] #[[Green Deal]] #[[institution: EASAC]] #[[EVP]] #[[Manfred Weber]] #[[Verabschiedung des Nature Restoration Law durch das Europäische Parlament]] #[[Februar 2024]] #[[Naturschutzgipfel in Kolumbien Herbst 2024]] #[[Henrik Maaß]] #[[Arbeitsgemeinschaft bäuerliche Landwirtschaft (AbL)]] #[[Copa-Cogega]] #[[EU-Verordnung für einen nachhaltigen Umgang mit Pestiziden]] #[[Gemeinsame Landwirtschaftspolitik]] #[[EU-Verordnung für ein nachhaltiges Ernährungssystem]] #[[EU]] #[[Agrarlobby]] #[[by: Heike Holdinghausen]]
+- 📌 Zitat: In vielen Punkten sind wir jetzt auf einen Stand von vor zehn Jahren zurück gefallen“, sagt Maaß, „die Aufbruchstimmung, die es nach der Vorstellung des Green Deals gab, ist weg“.
+- 📌 Zitat: : Über 80 Prozent der europäischen Biotope sind laut des Zusammenschlusses der europäischen Wissenschaftsakademien EASAC, zu der unter anderem die Leopoldina in Halle gehört, in einem schlechtem Zustand
+- 📌 Zitat: Doch auch hier wartete Ärger. Denn während das Parlament im Februar 2024 dem Verhandlungsergebnis – einem arg geschliffenen Rumpf des ursprünglichen Gesetzes, dem jede Verbindlichkeit in Zielen und Finanzierung fehlte – zustimmte
