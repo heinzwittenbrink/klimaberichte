@@ -1,0 +1,2 @@
+- alias: climate finance
+- Ein Element der Klimafinanzierung sind die [[Klimahilfen]] für finanzschwache Länder durch die Länder, die die globale Erhitzung vor allem verursacht haben. Man spricht offiziell von [[Climate Finance Provided and Mobilised by Developed Countries]].

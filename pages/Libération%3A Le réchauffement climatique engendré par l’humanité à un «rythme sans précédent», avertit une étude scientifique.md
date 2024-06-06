@@ -1,0 +1,9 @@
+Erschienen:: 2024-06-05
+Genre:: Studienbericht
+
+- 📝 Die globale Durchschnittstemperatur hat sich von 2014 bis 2023 um 0,26 Grad erhöht, das ist deutlich mehr als in den zehn Jahren davor. Die Beschleunigung der Erderhitzung erschwert das Erreichen des 1,5 Grad Ziels zusätzlich. Die neuen Daten wurden in einer Studie anlässlich der Klima-Zwischen-Konferenz in Bonn publiziert. https://www.liberation.fr/environnement/climat/le-rechauffement-climatique-engendre-par-lhumanite-a-un-rythme-sans-precedent-avertit-une-etude-scientifique-20240605_UP2TYIV67RC6VA4XMKHF45KZ5I/ #[[Globale Erhitzung]] #[[2014-2023]] #[[Piers Forster]] #[[Pierre Friedlingstein]] #[[2023]] #[[2013-2022]] 
+  Studie: [[Indicators of Global Climate Change 2023: annual update of key indicators of the state of the climate system and human influence]]
+- 📌 Zitat: Pour la seule année 2023, le réchauffement attribuable à l’activité humaine a atteint 1,31°C. Le réchauffement total observé a lui atteint 1,43°C –
+- 📌 Zitat: l’utilisation massive des énergies fossiles (pétrole, gaz, charbon) – qui se situent à des niveaux records : quelque 53 milliards de tonnes d’équivalent CO2 par an sur 2013-2022. Elles atteignent même 55 milliards pour l’année 2022. #[[Treibhausgas-Emissionen]]
+- 📌 Zitat: Ce «budget» n’est plus que de l’ordre de 200 milliards de tonnes, l’équivalent d’environ cinq années d’émissions au rythme actuel, #[[Treibhausgas-Budget]]
+  📝 Das Treibhausgas Budget, um mit 50% Wahrscheinlichkeit die globale Erhitzung auf 1,5 Grad zu begrenzen, liegt der neuen Studie zufolge bei 200 Gigatonnen, das entspricht etwa dem Fünffachen der derzeitigen Jahresemissionen.  #[[Treibhausgas-Budget]]

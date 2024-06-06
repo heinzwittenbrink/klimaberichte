@@ -1,0 +1,9 @@
+Erschienen:: 2024-06-04
+Genre:: Studienbericht
+
+- 📝 Ein Report zum Stand der Dinge bei der Entfernung von CO2 aus der Atmosphäre (CO2 Removal) ist in der zweiten Version erschienen. Insgesamt ist die CO2-Menge, die mit anderen Mitteln als der Wiederaufforstung im Pflanzen von Bäumen aus der Atmosphäre entfernt wird, extrem gering. Der Bericht kommt zu dem Ergebnis, dass die Pariser Klimaziele ohne CDR unerreichbar sein werden, dass aber CDR ohne deutlich mehr Investitionen und eine schnelle Verringerung von Treibhausgasemissionen wirkungslos bleiben wird. https://www.derstandard.de/story/3000000222642/treibhausgase-aus-der-atmosphaere-saugen-wo-wir-bei-der-co2-entnahme-stehen #[[by: Tanja Traxler]] #[[The State of Carbon Dioxide Removal - 2nd Edition]] #[[Oliver Geden]] #[[Matthew Gidden]] #[[CDR]]
+  Studie: [[The State of Carbon Dioxide Removal - 2nd Edition]]
+- 📌 Zitat: Wie es aktuell um die CO2-Entnahme steht und welche Maßnahmen künftig notwendig sind, darüber gibt der soeben veröffentlichte "Carbon Dixoide Removal Report" Aufschluss.
+- 📌 Zitat: Wie der Bericht zeigt, werden aktuell jährlich 2,2 Gigatonnen CO2 durch konventionelle Kohlenstoffabscheidung entfernt – dazu zählt insbesondere die Aufforstung und Wiederaufforstung.
+- 📌 Zitat: Nur 0,0013 Gigatonnen CO2 pro Jahr, also 0,1 Prozent der gesamten CO2-Entnahme, gehen auf neuartige technische Methoden der Kohlenstoffabscheidung zurück, worunter Bioenergie und Biokohle fallen.
+- 📌 Zitat: Der aktuelle Bericht stellt eine Aktualisierung des vor eineinhalb Jahren veröffentlichten Berichts "The State of Carbon Dioxide Removal" (CDR)
