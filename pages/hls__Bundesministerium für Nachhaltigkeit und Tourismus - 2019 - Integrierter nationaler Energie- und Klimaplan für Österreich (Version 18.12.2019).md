@@ -1,0 +1,2 @@
+file:: [Bundesministerium für Nachhaltigkeit und Tourismus - 2019 - Integrierter nationaler Energie- und Klimaplan für Österreich (Version 18.12.2019).pdf](file:///home/heinz/Zotero/storage/ACTBB4FJ/Bundesministerium für Nachhaltigkeit und Tourismus - 2019 - Integrierter nationaler Energie- und Klimaplan für Österreich (Version 18.12.2019).pdf)
+file-path:: file:///home/heinz/Zotero/storage/ACTBB4FJ/Bundesministerium für Nachhaltigkeit und Tourismus - 2019 - Integrierter nationaler Energie- und Klimaplan für Österreich (Version 18.12.2019).pdf

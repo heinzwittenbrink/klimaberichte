@@ -1,0 +1,4 @@
+- Zur Entwicklung der Emissionen:
+- 2022 lagen die Emissionen (ohne Landnutzung) bei 72,8 Millionen Tonnen.
+	- ((66c5fd03-0d36-434c-b93b-62bf1f81ce7a))
+	-
