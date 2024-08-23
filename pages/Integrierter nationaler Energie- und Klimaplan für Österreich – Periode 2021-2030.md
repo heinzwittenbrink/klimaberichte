@@ -1,4 +1,5 @@
 date:: [[Aug 20th, 2024]]
+alias:: NEKP Aktualisierung 2023 2024
 title:: Integrierter nationaler Energie- und Klimaplan für Österreich – Periode 2021-2030
 item-type:: [[document]]
 access-date:: 2024-08-20

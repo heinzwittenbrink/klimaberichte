@@ -115,6 +115,7 @@ file-path:: file:///home/heinz/Zotero/storage/8AH3HWWB/NEKP_Aktualisierung_2023_
   hl-page:: 156
   hl-color:: green
   id:: 66c59ad9-96af-4ccd-9edb-4ee35c8b51e0
+  hl-stamp:: 1724413465541
 - Gemäß WAM Szenario müsste für das Erreichen des 100 % Ziels - ausgehend von der Produktion im Jahr 2020- die jährliche Stromerzeugung aus erneuerbaren Quellen bis zum Jahr 2030 mengenwirksam um 35 TWh gesteigert werden. Gemäß WAM-Szenario könnte sich dieser Zubau wie folgt aufteilen: 17 TWh auf Photovoltaik, 12 TWh auf Wind, 5 TWh auf Wasserkraft und 1 TWh auf Biomasse. Eine vollständige Zielerreichung ist auf Grundlage der im Szenario WAM abgebildeten Maßnahmen erreichbar.
   ls-type:: annotation
   hl-page:: 188
@@ -181,3 +182,317 @@ file-path:: file:///home/heinz/Zotero/storage/8AH3HWWB/NEKP_Aktualisierung_2023_
   id:: 66c5fd03-0d36-434c-b93b-62bf1f81ce7a
   hl-type:: area
   hl-stamp:: 1724251392556
+- im letzten Berichtsjahr 2022 konnte eine markante absolute Entkoppelung zwischen THG-Emissionen und Energieverbrauch einerseits sowie BIP-Entwicklung andererseits erzielt werden
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: green
+  id:: 66c72cf0-7af7-48d0-ba9d-63bf9fafa7aa
+- nzureichende Ausschöpfung der Instrumente der örtlichen undüberörtlichen Raumordnung
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 66c72d31-4191-482b-bddf-e039ef930df6
+- n Österreich gibt es abseits der Klimabilanz weitere umweltpolitische Bereiche mit Verbesserungspotenzialen, etwa die Entwicklung des Verkehrs, 
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 66c72d49-259a-42a5-ad3e-d90a2ccd0ec4
+- Besonders kritisch ist in zahlreichen Regionen der Landschafts- und Flächenverbrauch
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 66c72d53-8715-4300-a17f-815cca4c28a5
+- Während der Außenhandel mit Waren stets ein leichtes Leistungsbilanzdefizit aufweist, werden im Bereich energieintensiver Produkte wertmäßig tendenziell mehr Waren exportiert als importiert. Eine wichtige Ausnahme stellt der Handel mit fossilen Brennstoffen dar, in welchem starke Abhängigkeiten von Importen gegeben sind.
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: green
+  id:: 66c72d9a-f339-45ef-8569-a53d08abc118
+- Das Ziel „Klimaneutralität“ ist im Regierungsprogramm nicht näher definiert; im NEKP umfasst das Ziel die gesamten THG-Emissionen der Sektoren außerhalb des EU Emissionshandelssystems (nicht-EHS) sowie eine Kompensation von verbleibenden Emissionen durch natürliche und technische THG-Senken.
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: green
+  id:: 66c73038-a412-4e89-a86b-60ecafc1c9ed
+- Die Umsetzung der langfristigen Ziele muss in einer Weise gestaltet werden, dass daraus ein wirtschaftlich, ökologisch und sozial erfolgreiches Modell einer ressourceneffizienten und resilienten Wirtschaft resultiert.
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: green
+  id:: 66c73075-48c8-401b-a10f-b1564cf17cb0
+- n einer internationalen Studie22 zur empirischen Bewertung von Maßnahmen im Verkehrsbereich hinsichtlich deren tatsächlicher Wirkung zur Reduktion von THG-Emissionen zeigte sich für Österreich, dass in den letzten Jahrzehnten kein struktureller Bruch bzw. Rückgang erfolgt ist. Laut den Studienautor:innen konnte Österreich keine echte THG-Reduktion erreichen, weil die Effekte der von Österreich gesetzten Maßnahmen durch gegenläufig wirkende Trends mehr als kompensiert wurden.
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: green
+  id:: 66c73326-30ef-4229-af53-7f400a59b8cc
+- Im LULUCF-Sektor ist die Netto-Kohlenstoffspeicherung von 1990 bis 2021 um rund 15 % auf rund 10,4 Mio. t CO2 zurückgegangen, wobei die Netto-Kohlenstoffspeicherung starken jährlichen Schwankungen unterliegt und in einzelnen Jahren, wie 2018 und 2019, im LULUCF-Sektor sogar Netto-Emissionen bilanziert wurden.
+  ls-type:: annotation
+  hl-page:: 45
+  hl-color:: green
+  id:: 66c73391-236e-4c7d-8ac9-6ef360996f64
+- Die Mitglieder des Klimarats haben umfangreiche Empfehlungen31 erarbeitet, wie das Ziel der Klimaneutralität bis 2040 erreicht werden kann. Diese Empfehlungen wurden im Juli2022 der Bundesregierung übergeben und flossen in die Aktualisierung des NEKP ein. Das BMK hat auf die Empfehlungen des Klimarats in schriftlicher Form reagiert. Klimawandelanpassung wurde mitbedacht, stand aber nicht im Zentrum des Klimarats.
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: green
+  id:: 66c73426-290f-4b42-910e-8d5c32fcc128
+- Der Verkehr ist mit einem Anteil von rund 45 % der Gesamtemissionen (außerhalb des EHS) derzeit der emissionsstärkste Sektor. Strategischer Ansatz Österreichs für die Erreichung einer emissionsarmen Mobilität ist das Prinzip Vermeiden (von nicht unbedingt erforderlichen Verkehren), Verlagern (auf effiziente Verkehrsträger) und Verbessern (der eingesetzten Technologien). Damit wird ein Pfad eingeschlagen, der mit dem im Regierungsprogramm verankerten Ziel einer emissionsfreien Mobilität kompatibel ist und Österreich als Vorreiter in der Elektromobilität und beim Ausbau des öffentlichen Verkehrs positioniert.
+  ls-type:: annotation
+  hl-page:: 83
+  hl-color:: green
+  id:: 66c73b41-b544-43dd-924b-275c699e7dae
+- Für den Bereich der Raumplanung haben sich Bund, Länder, Städte und Gemeinden darauf geeinigt, ihre Ziele und Grundsätze an der Bekämpfung des Klimawandels auszurichten. ImÖsterreichischen Raumordnungskonzept 2030 sind daher u.a. folgende Ziele für die Raumordnung festgehalte
+  ls-type:: annotation
+  hl-page:: 84
+  hl-color:: green
+  id:: 66c73b6b-1b8d-4ed4-99a0-ec722f73e26a
+- Ab 2026 wird ein linearer Zielpfad für Österreich festgelegt, der zu einem Zuwachs der Kohlenstoffspeicherung im LULUCF-Sektor bis 2030 um rund 880.000 t CO2 im Vergleich zu2016-201834 führen sol
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: green
+  id:: 66c73bc0-3739-4368-b528-752622e296b6
+- [:span]
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: green
+  id:: 66c73c4a-82e4-421f-8fc9-49dfea99657f
+  hl-type:: area
+  hl-stamp:: 1724333128367
+- sterreich hat Anfang 2023 bereits ein THG Reduktionsziel von 13 % im Jahr 2030 festgelegt, wobei auf dieses Ziel die Beiträge von Strom für E-Mobilität sowie von Erneuerbaren Kraftstoffen nicht biogenen Ursprungs wie Wasserstoff und E-Fuels vierfach angerechnet werden können. Mit diesem 13 % THG-Ziel wurde die Zielerreichung hinsichtlich RED II betreffend eines auf den Energiegehalt bezogenen erneuerbaren Anteils von 14 % sichergestellt.
+  ls-type:: annotation
+  hl-page:: 96
+  hl-color:: green
+  id:: 66c73ce9-15f2-41af-a05c-722abd3319eb
+- insbesondere durch die Erschließung interner heimischer Energiequellen, 
+  ls-type:: annotation
+  hl-page:: 111
+  hl-color:: green
+  id:: 66c73d7c-fcbd-47cf-8bf0-f00b8db07d04
+- orschungsmission Mobilitätswende Mit der FTI-Strategie Mobilität 203045 verfolgt das BMK die Mission, die erforderlichen forschungs- und innovationspolitischen Schritte zur Realisierung eines nachhaltigen, klimaneutralen und inklusiven Mobilitätssystems 2040 zu setzen. Damit soll ein direkter Beitrag zur Erreichung der Ziele des Mobilitätsmasterplans 203046 zur Verkehrsvermeidung, -verlagerung und -verbesserung geleistet werden. Die FTI-Strategie Mobilität setzt in vier Bereichen einen starken Fokus auf Systemlösungen
+  ls-type:: annotation
+  hl-page:: 127
+  hl-color:: green
+  id:: 66c73dd0-6446-4c37-86d2-fb81df1ee6ae
+- Systeminnovationen in österreichischen Pionierstädten 2030 als Beitrag zur Umsetzung von Klimaneutralität in der Praxis
+  ls-type:: annotation
+  hl-page:: 128
+  hl-color:: green
+  id:: 66c73de3-a02f-439a-8680-1d95dd122b90
+- Maßnahmen, welche in diesem Kapitel beschrieben sind, reichen noch nicht aus, um die Ziele des Mobilitätsmasterplan 2030 zu erreichen.
+  ls-type:: annotation
+  hl-page:: 136
+  hl-color:: green
+  id:: 66c73e3e-7236-462c-958d-182d30b4e6e3
+- Ökologisierung des Pendler:innenpauschales: systematische Analyse und erneute Bewertung von Modellvorschlägen unter Berücksichtigung infrastruktureller Verbesserungen;• Konzeptionelle Überlegungen zur Sachbezugsbesteuerung von Dienstwägen;
+  ls-type:: annotation
+  hl-page:: 145
+  hl-color:: green
+  id:: 66c73ecc-afec-4ad2-a0d6-af594508f6d1
+- ür die Einführung von Sustainable Aviation Fuels (SAF) 74 in und ausÖsterreich: Als zentrale Maßnahme zur Dekarbonisierung der Luftfahrt definiert die Luftfahrtstrategie 2040+ den gesteigerten Einsatz von SAF in Österreich. Die SAF Roadmap, deren Veröffentlichung für das 1. Halbjahr 2024 geplant ist, legt hierfür die zentralen Maßnahmen dar. Neben der Setzung von Anreizen und Impulsen für den SAF-Hochlauf, liegen die Schwerpunkte auf der Sicherstellung der Verfügbarkeit und Nachhaltigkeit von SAF, der Gewährleistung von Kostenwahrheit und Wettbewerbsfähigkeit in der Luftfahrt sowie dem politischen Dialog und der Stakeholderpartizipation. Mit dem Anstieg der SAF-Nutzung können auch Nicht-CO2Effekte gemindert werden.
+  ls-type:: annotation
+  hl-page:: 148
+  hl-color:: green
+  id:: 66c73f07-a8be-4daa-adcc-e1a568ab55b7
+- Mit Annahme der LULUCF-VO werden ab 2021 erstmals die Emissionen bzw. Kohlenstoffspeicherungen aus dem Sektor Landnutzung angerechnet und unter gewissen Beschränkungen den nationalen Effort Sharing-Zielen gegengerechnet
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: green
+  id:: 66c73fc1-6568-48c9-a5af-097f207786da
+- in wichtiges Instrument zur Regelung der Raumnutzung und Flächeninanspruchnahme ist die Raumplanung. Die auf Bundesebene angesiedelte Österreichische Raumordnungskonferenz (ÖROK) liefert Leitlinien für die Raumordnungsgesetze der Bundesländer,
+  ls-type:: annotation
+  hl-page:: 180
+  hl-color:: green
+  id:: 66c73ffb-4d0a-43c5-bc9e-14fd1d26d88d
+- 3.1.3.4 Maßnahmen und Zeitplan für die schrittweise Einstellung von Energieförderungen, insbesondere von Förderungen zugunsten fossiler Energieträger, falls anwendbar
+  ls-type:: annotation
+  hl-page:: 203
+  hl-color:: green
+  id:: 66c7408e-5ad8-419a-9cfd-190b752f01c5
+- ie bundesinterne Zuständigkeit für die Erfassung und Analyse kontraproduktiver Maßnahmen, inklusive der damit verbundenen budgetären Effekte, liegt beim Bundesministerium für Finanzen.
+  ls-type:: annotation
+  hl-page:: 204
+  hl-color:: green
+  id:: 66c740c6-ed08-4c7a-9609-24319e12c277
+- Das Bundesministerium für Finanzen wird zur Einhaltung des Reduktionsziels für kontraproduktive Anreize und Förderungen eine interministerielle Arbeitsgruppe (AG Kontraproduktive) unter Leitung des BMF und Mitarbeit des BMK sowie Einbindung weiterer betroffener Stakeholder einrichten
+  ls-type:: annotation
+  hl-page:: 205
+  hl-color:: green
+  id:: 66c740eb-6d7c-4e3c-9ffe-324d6a8e3e9e
+- [:span]
+  ls-type:: annotation
+  hl-page:: 205
+  hl-color:: green
+  id:: 66c7412c-7403-44a6-a0a5-4bf418c456ff
+  hl-type:: area
+  hl-stamp:: 1724334379219
+- In der Mission Mobilitätswende sollen technologische, soziale und organisatorische Innovationen für klimaneutrale und energieeffiziente Mobilitätssysteme gefördert und erprobt werden. Dafür wurden folgende Maßnahmen definiert: Aktionslinie 1: Nationale, transnationale und europäische FTI-Förderungen für klimaneutrale urbane und regionale Mobilität; Digitalisierung von Verkehrsinfrastruktur, Mobilitäts- und Logistikdiensten; sowie klimaneutrale (Fahrzeug- & Antriebs-) Technologien
+  ls-type:: annotation
+  hl-page:: 234
+  hl-color:: green
+  id:: 66c741ed-1e8e-4619-800a-ce91808cc125
+- [:span]
+  ls-type:: annotation
+  hl-page:: 245
+  hl-color:: green
+  id:: 66c74280-36ed-4f23-9e4a-5753cde2a4d6
+  hl-type:: area
+  hl-stamp:: 1724334716151
+- [:span]
+  ls-type:: annotation
+  hl-page:: 246
+  hl-color:: green
+  id:: 66c742ac-5160-4c39-8f37-0dcfcacc9a3e
+  hl-type:: area
+  hl-stamp:: 1724334761572
+- [:span]
+  ls-type:: annotation
+  hl-page:: 275
+  hl-color:: green
+  id:: 66c743a1-9b54-4827-a1f0-18e4f9a05ba6
+  hl-type:: area
+  hl-stamp:: 1724335007801
+- [:span]
+  ls-type:: annotation
+  hl-page:: 276
+  hl-color:: green
+  id:: 66c743d9-1651-469c-83eb-ac7f4607db30
+  hl-type:: area
+  hl-stamp:: 1724335063900
+- Es wird dazu auf die Ergebnisse der modellgestützten Szenarienberechnungen (WEM, WAM, Transition) verwiesen, die im Herbst 2023 umfassend in einem Endbericht aufbereitet wurden.1
+  ls-type:: annotation
+  hl-page:: 280
+  hl-color:: green
+  id:: 66c74414-c86b-4dec-8840-3fc657a62a98
+- ie Treiber für Rückgänge sowohl der THG- als auch der NH3-Emissionen im Sektor Landwirtschaft sind sinkende Viehbestände sowie die im GAP-Strategieplan enthaltenen Maßnahmen (BML, 2022). A
+  ls-type:: annotation
+  hl-page:: 288
+  hl-color:: green
+  id:: 66c7447b-209d-48e1-b297-691cfa67d04f
+- Bislang existiert keine umfassende und methodisch einheitliche Analyse für den gesamten Investitionsbedarf der Dekarbonisierung in Österreich, weshalb auf verschiedenste Quellen und Schätzungen mit jeweils unterschiedlichen methodischen Herangehensweisen zurückgegriffen wird. Es ist vorgesehen, dass das BMK in enger Zusammenarbeit mit dem BMF auch in Zukunft entsprechende vertiefende Analysen erarbeitet
+  ls-type:: annotation
+  hl-page:: 289
+  hl-color:: green
+  id:: 66c74496-fc02-4c48-bb98-7e21dfae80cc
+- Gemäß einer Schätzung der Technischen Universität (TU) Wien und des Umweltbundesamtes ergibt sich durch die Umrüstung des fossilen öffentlichen Kapitalstocks ein Investitionspotenzial von rund 14,6 Mrd. Euro. Die Investitionen in den zusätzlichen Aus- und Rückbau des Kapitalstocks (ohne Umrüstung) sind mit rund 23,5 Mrd. Euro deutlich höher und fließen vorwiegend in den Schienenausbau, in den ÖPNV-Ausbau, in die Dekarbonisierung des öffentlichen Fuhrparks und in die Errichtung von Radinfrastruktur. Insgesamt schätzt die Studie dafür in Summe ein Gesamtinvestitionspotenzial von 38,1 Mrd. Euro bis 2030.131 Diese Schätzungen beleuchten allerdings nur einen Teil der notwendigen Investitionen
+  ls-type:: annotation
+  hl-page:: 319
+  hl-color:: green
+  id:: 66c74513-b232-4fd0-aed2-358472492006
+- Im Vergleich zu den gesetzlich determinierten und budgetierten Mitteln (WEM) sind die angenommenen öffentlichen Ausgaben im Verkehrsbereich im WAM Szenario deutlich höher angesetzt und bis inkl. 2030 fortgeschrieben.
+  ls-type:: annotation
+  hl-page:: 324
+  hl-color:: green
+  id:: 66c74536-863f-4d47-bf6d-b1c2cdf77c79
+- Der sektorspezifische Ausbau der erneuerbaren Energien stellt keinen eigenen Zielpfad dar, sondern zeigt den modellgestützten Entwicklungspfad auf Basis der Annahmen, die im WAM-Szenario getroffen wurden
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: green
+  id:: 66c85d8e-fe47-4f74-a8f1-6de499e404fb
+- nsgesamt werden im WAM Szenario 2030 durch eine weitergehende Mobilisierung der realisierbaren Potenziale91 TWh Strom aus Erneuerbaren erzeugt. Somit wird das Ziel, den Gesamtstrombedarf bis2030 zu 100 % national bilanziell aus Erneuerbaren zu decken, erreicht. 
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: green
+  id:: 66c85db3-dae2-4a63-b1be-9c60b01a14fa
+- Im WAM Szenario werden somit gegenüber2020 zusätzlich 35 TWh erneuerbarer Strom aufgebracht (aktueller Zielpfad nach EAG weist+27 TWh aus). Der Zubau teilt sich wie folgt auf: 17 TWh Photovoltaik, 12 TWh Wind, 5 TWh Wasserkraft und 1 TWh Biomasse. Eine vollständige Zielerreichung ist auf Grundlage der im Szenario WAM abgebildeten Maßnahmen erreichbar.
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: green
+  id:: 66c85dc7-4f63-4e2b-9c56-aa72aa9673cb
+- Mit der ökosozialen Steuerreform 2022 wurden Maßnahmen im Gebäudebereich wirksam, auf die in Kapitel 3.1 näher eingegangen wird (u.a. CO2-Preis; steuerliche Anreize für Sanierungsmaßnahmen; Wirkung im Szenario WAM
+  ls-type:: annotation
+  hl-page:: 44
+  hl-color:: green
+  id:: 66c85e57-5afb-458d-9068-ae6a31df8a8f
+- . Das Ziel für 2030 liegt (ohne Berücksichtigung der EHSFlexibilität) bei etwa 29,6 Mio. t CO2-Äquivalent, 
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: green
+  id:: 66c85eb2-538a-4acb-a05e-f3f41313047c
+- Das Szenario WEM (2024) weist einen Rückgang der THGEmissionen bis 2030 auf rund 40,0 Mio. t CO2-Äquivalent aus, was in etwa einer Reduktion um 30 % gegenüber 2005 entspricht 
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: green
+  id:: 66c85ec0-47a5-4f3b-b6d3-361957c2d8c3
+- [:span]
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: green
+  id:: 66c873eb-5ec3-491b-b8bf-112c0d70e2c0
+  hl-type:: area
+  hl-stamp:: 1724412905866
+- Das Szenario (WAM) weist die modellgestützten Auswirkungen der in Kapitel 3 dargestellten Maßnahmen auf THG-Emissionen, Energieverbrauch und Wirtschaft (Beschäftigung und Wertschöpfung) auf. Die Detailergebnisse dieses Szenarios sind in Abschnitt 5 dargestellt.
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: green
+  id:: 66c8740d-626d-4fe2-bdb2-0fde715a2501
+- Durch die Umsetzung von CCS-Projekten und die Abschaffung von kontraproduktiven Förderungen soll ein zusätzliches Potenzial von 2,5 Mio. t CO2-Äquivalent 2030 im ESR (entsprechend einem Reduktionswert von 46 % gegenüber 2005) realisiert werden.
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: green
+  id:: 66c8744c-284f-45e5-a7e4-d41aee8b669a
+- Das WAM-Szenario weist einen Rückgang der THG-Emissionen der nicht dem Emissionshandel unterliegenden Quellen bis 2030 auf rund 33,2 Mio. t CO2-Äquivalent aus, was in etwa einer Reduktion um 42 % gegenüber 2005 entspricht. Trotz deutlicher Reduktionen bleibt der Sektor Verkehr mit 45 % der größte Emittent im nicht-EHS Bereich. Zweitgrößter Emittent ist der Sektor Landwirtschaft (21 %). An dritter Stelle liegt der Sektor Energie & Industrie (ohne EH) mit 14 %
+  ls-type:: annotation
+  hl-page:: 273
+  hl-color:: green
+  id:: 66c877d1-08a4-492f-bbbf-27c9d002bc8d
+- Durch die Umsetzung von CCS Projekten und die Abschaffung von kontraproduktive Förderungen sollen die Emissionen zusätzlich um rd. 2,5 Mio. t CO2-Äquivalent im Jahr 2030 reduziert werden, womit eine Reduktion des THG-Emissionen außerhalb des Emissionshandels von 46 % gegenüber dem Basisjahr 2005 darstellbar ist
+  ls-type:: annotation
+  hl-page:: 274
+  hl-color:: green
+  id:: 66c8780a-33b0-4be4-9121-3470e2472304
+- Die verbleibende Lücke von rd. 1,1 Mio. t CO2-Äqivalent im Jahr 2030 zur Erreichung der THG-Reduktion von minus 48 % (gegenüber 2005) lässt sich durch die Verwendung der EHSFlexibilität schließen. Hierfür stehen über den gesamten Zielpfad (2021 bis 2030) bis zu 11,4 Mio. t CO2-Äqivalent zur Verfügung
+  ls-type:: annotation
+  hl-page:: 274
+  hl-color:: green
+  id:: 66c87816-9010-48c2-a2be-774ea6b5d399
+- [:span]
+  ls-type:: annotation
+  hl-page:: 277
+  hl-color:: green
+  id:: 66c8793d-b1c4-440d-9c70-1bd16f657fe3
+  hl-type:: area
+  hl-stamp:: 1724414267749
+- Treiber dieser Entwicklungen sind die dem WAM-Szenario hinterlegten zusätzlichen Investitionen in den Bereichen Energieversorgung, Verkehr, Gebäude und Industrie. Kumuliert liegen die Investitionen im WAM-Szenario im Zeitraum 2023 bis 2030 um ca. 36 Mrd. Euro(real 2020) über dem WEM-Szenario. Im Durchschnitt entspricht dies einem Anstieg um4,7 % pro Jahr gegenüber dem Wert im WEM-Szenario; im Jahr 2030 sind es 5,4 %
+  ls-type:: annotation
+  hl-page:: 282
+  hl-color:: green
+  id:: 66c8798c-0b1d-409b-b217-f3eb802e0576
+- Hinsichtlich der sozialen Auswirkungen zeigt die Folgenabschätzung, dass das verfügbare Haushaltseinkommen aller Einkommensgruppen durch die im WAM-Szenario hinterlegten Maßnahmen leicht ansteigt (siehe Abbildung 34). Die oberen Einkommensgruppen (viertes und fünftes Quintil) gewinnen zwar absolut stärker als die unteren.
+  ls-type:: annotation
+  hl-page:: 285
+  hl-color:: green
+  id:: 66c879c8-dd95-411e-98db-77f80419ebbb
+- [:span]
+  ls-type:: annotation
+  hl-page:: 298
+  hl-color:: green
+  id:: 66c87a38-0d45-46f0-b893-7571a289ad0b
+  hl-type:: area
+  hl-stamp:: 1724414517580
+- [:span]
+  ls-type:: annotation
+  hl-page:: 307
+  hl-color:: green
+  id:: 66c87a61-0319-4108-add4-182a94a6c557
+  hl-type:: area
+  hl-stamp:: 1724414559997
+- [:span]
+  ls-type:: annotation
+  hl-page:: 321
+  hl-color:: green
+  id:: 66c87aa2-f8fc-4634-8c7c-025b7cecebfa
+  hl-type:: area
+  hl-stamp:: 1724414622216
+- ie hier dargestellten Daten sind also indikativ und bilden keine Präjudizierung für zukünftige öffentliche Mittel bzw. Budgetverhandlungen
+  ls-type:: annotation
+  hl-page:: 322
+  hl-color:: green
+  id:: 66c87ac5-af8c-42d0-a87f-6133467bd67f
+- [:span]
+  ls-type:: annotation
+  hl-page:: 324
+  hl-color:: green
+  id:: 66c87af1-a850-4297-bb16-40bfbd7a850e
+  hl-type:: area
+  hl-stamp:: 1724414703921
+- Die Wirkungsfolgenabschätzung zeigt, dass die Sicherheit der Energieversorgung im WAMSzenario in dem Sinne deutlich zunimmt, als Importe fossiler Energieträger (Öl und Erdgas) deutlich verringert werden können. Auch die Nettoimporte bei Strom können, jedenfalls vorübergehend, maßgeblich verringert werden, was aber nicht den Rückschluss zulässt, dass der grenzüberschreitende Stromaustausch insgesamt abnehmen wird.
+  ls-type:: annotation
+  hl-page:: 326
+  hl-color:: green
+  id:: 66c87b38-ed29-4e70-bb57-8eb8ecc53426
