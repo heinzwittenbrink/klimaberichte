@@ -1,6 +1,6 @@
 type:: process
 
-- Die Treibhausgasemissionen sind die Ursache der globalen Erhitzung. Sie ändern die [[Treibhausgaskonzentration in der Atmosphäre]], von der die Temperaturen der Atmosphäre und der Meere abhängen.
+- Die Treibhausgasemissionen sind die Ursache der globalen Erhitzung. Sie ändern die [[Steigende Treibhausgaskonzentration in der Atmosphäre]], von der die Temperaturen der Atmosphäre und der Meere abhängen.
 - Quelle für die aktuellen Emissionen: [[Indicators of Global Climate Change 2023: annual update of key indicators of the state of the climate system and human influence]]
 - ## Globale Treibhausgasemissionen insgesamt
 - ((664ddf3c-96cf-46ce-9581-d2d67cf31d6f))
