@@ -14,3 +14,5 @@ title:: Globale Erhitzung
   Aus: [[2023 summer warmth unparalleled over the past 2,000 years]], hier verlinkt: https://www.derstandard.at/story/3000000219984/schnellster-co2-anstieg-in-der-luft-seit-50000-jahren
 - Verbundene Prozesse:
   [[Steigende Treibhausgaskonzentration in der Atmosphäre/CO2-Anstieg]]
+- Indikatoren:
+	- [[Earth's energy imbalance]]
