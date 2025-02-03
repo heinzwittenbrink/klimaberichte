@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["berichte" "studien" "prozesse" "events"]
+ :favorites ["studien" "prozesse" "indikatoren" "berichte" "events"]
 
  ;; Set flashcards interval.
  ;; Expected value:

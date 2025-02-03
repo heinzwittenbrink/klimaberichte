@@ -17,6 +17,6 @@ hypothesis-naming-scheme:: 0.2.0
 - 📌 m. But with the climate crisis, he realises there is now no other option: “I am forced into self-defence”; “sabotage”, “blockades”, and “yes, just straight up violence”.
   hid:: W9fCbtYCEe6UOL8EDN3fyg
   updated:: 2024-02-28T06:26:51.353501+00:00
-- 📝 Interview zu dem Buch "The Exhausted of the Earth", in dem Ajay Singh Chaudhary  einen "linken Klimarealismus" fordert, der sich auf Machtfragen konzentriert, Emotionen politisch ernst nimmt und Gewalt im Kampf gegen diejenigen, die die Klimakrise verursachen, nicht ausschließt. https://www.theguardian.com/environment/2024/feb/28/quite-radical-the-feeling-of-exhaustion-is-key-to-tackling-climate-change-says-author-ajay-singh-chaudhary #[[2024-02-28]] #[[Ajay Singh Chaudhary]] #[[political theory]] #[[Cochabamba Agreement]] #[[ecoanxiety]] #[[solastalgia]]
+- 📝 Interview zu dem Buch "The Exhausted of the Earth", in dem Ajay Singh Chaudhary  einen "linken Klimarealismus" fordert, der sich auf Machtfragen konzentriert, Emotionen politisch ernst nimmt und Gewalt im Kampf gegen diejenigen, die die Klimakrise verursachen, nicht ausschließt. https://www.theguardian.com/environment/2024/feb/28/quite-radical-the-feeling-of-exhaustion-is-key-to-tackling-climate-change-says-author-ajay-singh-chaudhary #[[2024-02-28]] #[[Ajay Singh Chaudhary]] #[[political theory]] #[[Cochabamba Agreement]] #[[ecoanxiety]] #[[solastalgia]] #[[climate distress]]
   hid:: Qpc1pNYDEe6p5eOZ7yir0A
   updated:: 2024-02-28T07:09:13.265357+00:00

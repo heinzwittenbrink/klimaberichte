@@ -1,4 +1,4 @@
-tags:: [[Climate and Earth system modelling]], [[Climate-change mitigation]], [[Policy]]
+tags:: [[Climate and Earth system modelling]], [[Climate-change mitigation]], [[Policy]], [[Global Stocktake]]
 date:: 2023-12
 issn:: 1476-4687
 issue:: 7990

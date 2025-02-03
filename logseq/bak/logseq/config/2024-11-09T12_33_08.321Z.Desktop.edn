@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["berichte" "studien" "prozesse" "events"]
+ :favorites ["indikatoren" "berichte" "studien" "prozesse" "events"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,4 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :zotero/settings-v2 {"default" {:zotero-data-directory "//home/heinz/snap/zotero-snap/common/Zotero", :page-insert-prefix "", :extra-tags "", :type-id "46463", :include-attachments? true, :prefer-citekey? false, :attachments-block-text "Attachments", :zotero-linked-attachment-base-directory "//home/heinz/snap/zotero-snap/common/Zotero"}}}
+ :zotero/settings-v2 {"default" {:extra-tags "", :overwrite-mode? false, :zotero-data-directory "//home/heinz/Zotero", :zotero-linked-attachment-base-directory "//home/heinz/Zotero", :include-attachments? true, :type-id "46463", :page-insert-prefix "", :prefer-citekey? false, :attachments-block-text "Attachments"}}}

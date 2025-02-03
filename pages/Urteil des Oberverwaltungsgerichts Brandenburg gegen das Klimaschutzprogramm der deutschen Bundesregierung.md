@@ -1,5 +1,5 @@
 type:: event
-beginn:: [[2024-05-16]]
+beginn:: 20240516
 
 - Material:
   id:: 664e132f-5b3b-41de-9f2d-0903ce52837e
