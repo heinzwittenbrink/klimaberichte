@@ -4,7 +4,7 @@ type:: indicator
 - Aktuelle Werte:
 	- 2024: 1.62 ± 0.06 °C über dem Durchschnitt der Jahre 1850-1900
 		- Quelle: [Global Temperature Report for 2024 - Berkeley Earth](https://berkeleyearth.org/global-temperature-report-for-2024/ "Global Temperature Report for 2024 - Berkeley Earth")
-- Letzte Messergebnisse:
+- Relevante Messergebnisse:
 	- ((67f38fba-74c9-4e80-a6b4-9502d8d50cf5))
 - Infografiken:
   id:: 672cf586-35d1-481a-8022-aa686ebc5cea
@@ -21,3 +21,4 @@ type:: indicator
 		- Quelle: [Datei:Global Temperature And Forces.svg – Wikipedia](https://de.m.wikipedia.org/wiki/Datei:Global_Temperature_And_Forces.svg). Diese Datei ist lizenziert unter der [Creative-Commons](https://en.wikipedia.org/wiki/de:Creative_Commons "w:de:Creative Commons")\-Lizenz [„Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 international“.](https://creativecommons.org/licenses/by-sa/4.0/deed.de "creativecommons:by-sa/4.0/deed.de")
 	- ![](https://i.ds.at/ZNGRrw/c:1341:441:fp:0.500:0.500/rs:fill:1600:0/plain/lido-images/2024/05/14/79535774-376f-4012-9f23-406282fcde43.jpeg)
 	  Aus: [[2023 summer warmth unparalleled over the past 2,000 years]], hier verlinkt: https://www.derstandard.at/story/3000000219984/schnellster-co2-anstieg-in-der-luft-seit-50000-jahren
+- Wichtige aktualisierte Quellen:

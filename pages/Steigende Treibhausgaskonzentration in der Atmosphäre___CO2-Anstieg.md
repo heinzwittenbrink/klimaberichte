@@ -6,7 +6,7 @@ alias:: Ansteigen des Kohlendioxid-Gehalts der Atmosphäre,
 	- Februar 2025: 427,09 ppm
 	- Februar 2024: 424,55 ppm
 	- Quelle: [Trends in CO2 - NOAA Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends/ "Trends in CO2 - NOAA Global Monitoring Laboratory")
-- Letzte Messergebnisse:
+- Rlevante Messergebnisse:
 	- ((67f375cd-7325-4d78-82db-56057c4d20de))
 	- ((67f3878e-4805-4da8-9588-f40ed7646923))
 	-
