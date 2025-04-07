@@ -1,7 +1,11 @@
-alias:: Global mean temperature
+alias:: Global mean temperature, Global mean near surface temperature
 type:: indicator
 
--
+- Aktuelle Werte:
+	- 2024: 1.62 ± 0.06 °C über dem Durchschnitt der Jahre 1850-1900
+		- Quelle: [Global Temperature Report for 2024 - Berkeley Earth](https://berkeleyearth.org/global-temperature-report-for-2024/ "Global Temperature Report for 2024 - Berkeley Earth")
+- Letzte Messergebnisse:
+	- ((67f38fba-74c9-4e80-a6b4-9502d8d50cf5))
 - Infografiken:
   id:: 672cf586-35d1-481a-8022-aa686ebc5cea
 	- ((67f38d04-5108-47ed-8624-cc4757257872))
