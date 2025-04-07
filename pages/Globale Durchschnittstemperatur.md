@@ -4,6 +4,7 @@ type:: indicator
 -
 - Infografiken:
   id:: 672cf586-35d1-481a-8022-aa686ebc5cea
+	- ((67f38d04-5108-47ed-8624-cc4757257872))
 	- Tagesaktuelle Daten ([[ERA5]]): [Climate Pulse](https://pulse.climate.copernicus.eu/ "Climate Pulse")
 	- ![](https://gcos.wmo.int/sites/default/files/2023-08/ezgif.com-video-to-gif_0.gif)
 		- Quelle: [Monthly global average surface air temperatures from 1979 to 2022 provided by the Copernicus Climate Change Service (C3S), implemented by the European Centre for Medium-Range Weather Forecasts (ECMWF).](https://climate.copernicus.eu/temperature-animations)
