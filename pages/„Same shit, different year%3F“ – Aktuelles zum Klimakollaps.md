@@ -5,6 +5,10 @@
 	- Wenig oder kein Rückgang der Temperatursteigerung im Verhältnis zum normalen ENSO-Rhythmus
 	- Suche nach den Ursachen
 - Die Grenzen des „uncharted territory“
+	- ((67f4dfb9-4409-4047-9b63-350b6d962fc0))
+		- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
+	- ((67f501a4-269d-4208-8564-82aa10e0fa9b))
+		- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
 	- Energieungleichgewicht der Erde
 	- Erschöpfung von CO<sub>2</sub>-Senken
 	- Feedback-Prozesse und Klimasensitivität

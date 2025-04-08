@@ -7,4 +7,5 @@ type:: indicator
 	- ((67f3ef2c-d93f-48ab-90f8-3c3c6175ad9e))
 		- Quelle: [[State of the Global Climate 2024]]
 -
-- Wichtige aktualisierte Quellen:
+- Wichtige aktualisierte Quellen
+- Related: [[Ocean acidification]]
