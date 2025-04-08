@@ -5,6 +5,10 @@
 	- 2024 war ein Jahr, in dem die Prognosen hinsichtlich der Zukunft unsicher wurden, und zwar auf verschiedenen Ebenen: hinsichtlich des Wissens über die Entwicklung des Klimas, hinsichtlich der Klimapolitik des globalen Nordens, hinsichtlich ganz oder teilweise faschistischer politischer Akteure. Das erste Jahr, in dem die Temperaturen über 1,5° lagen war auch das erste Jahr, in dem das „uncharted territory“ sichtbar wurde, auf dem wir uns jenseits des 1,5°-Limits bewegen.
 	- Wenn das stimmt, dann müssen wir uns in der Klimabewegung auf nichtlineare und disruptive Entwicklungen einstellen, nicht auf die Fortsetzung der negativen und positiven Trends der vergangenen Jahre. Wir müssen mit Ereignissen rechnen, die nicht in den Rahmen dessen passen, war wir kennen, und zwar auf den Gebieten des Klimas, der Erkenntnisse über das Klima und der Klimapolitik im weitesten Sinn.
 - Entwicklung der wichtigsten Klimaindikatoren 2024 (und danach)
+	- Quellen:
+		- [State of the Global Climate 2024](https://wmo.int/publication-series/state-of-global-climate-2024 "State of the Global Climate 2024")
+		- [Planetary Health Check 2024](https://www.planetaryhealthcheck.org/ "Planetary Health Check 2024")
+		- [2024 state of the climate report: Perilous times on planet Earth | BioScience | Oxford Academic](https://academic.oup.com/bioscience/article/74/12/812/7808595?login=false "2024 state of the climate report: Perilous times on planet Earth | BioScience | Oxford Academic")
 	- Erstes Jahr über 1,5°
 		- ((67f38d04-5108-47ed-8624-cc4757257872))
 			- Quelle: [[State of the Global Climate 2024]]
@@ -16,13 +20,15 @@
 		- [State of the climate: 2024 sets a new record as the first year above 1.5C - Carbon Brief](https://www.carbonbrief.org/state-of-the-climate-2024-sets-a-new-record-as-the-first-year-above-1-5c/ "State of the climate: 2024 sets a new record as the first year above 1.5C - Carbon Brief")
 	- Suche nach den Ursachen
 - Die Grenzen des „uncharted territory“
-  collapsed:: true
 	- ((67f4dfb9-4409-4047-9b63-350b6d962fc0))
 		- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
 	- ![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioscience/74/12/10.1093_biosci_biae087/2/m_biae087fig2.jpeg?Expires=1746725296&Signature=PiZyuDJ2ccg3igefgpsgck0VXpH13WE-a5wOPOmTkhHdnRcJGHwMr66l8EKAslrSdo3lvOz71dleWqqMAKB2u8PT7msLxi2TYum9YlKkyMoZuP6zf~-lA3kD-tmoDl3Zzym2RgT-I4qnMnc1YD1KXeH13J8BBb8tiCmjPJoWesSHPeGbgyz1rQ3vRRdFMhPRIWYsn1z1bHv7OhOHDl79BweRFazbzNT1gw2BvcyH00n3bBOtomTF8nD8Ud6mh~hAOMSN7USV-yo3AD8hZMaUMCsvVRDUx1RZwEzyqDe8BdelQKalPU9~a3-IP82N6~5rRFVKymZ4X89H94cI~b84wA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 	- ((67f501a4-269d-4208-8564-82aa10e0fa9b))
 		- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
-	- Energieungleichgewicht der Erde
+	- Energieungleichgewicht der Erde und Erhitzung der Meere
+		- Meldung/Erklärungen:
+			- [DK132 - Der Grund für die Erwärmung der Meere - Das Klima - Podcast](https://dasklima.podigee.io/132-dk132-der-grund-fur-die-erwarmung-der-meere "DK132 - Der Grund für die Erwärmung der Meere - Das Klima - Podcast")
+			- [Ocean surface warming four times faster now than late 1980s - University of Reading](https://www.reading.ac.uk/news/2025/Research-News/Ocean-surface-warming-four-times-faster-now-than-late-1980s "Ocean surface warming four times faster now than late 1980s - University of Reading")
 		- [[Earth's energy imbalance]]
 			- ((67f3e97f-e641-4f81-b71c-d7362f1a6c00))
 				- Quelle: [[Quantifying the acceleration of multidecadal global sea surface warming driven by Earth’s energy imbalance]]
@@ -31,6 +37,8 @@
 			- ((67f520a0-a6f7-4d76-937e-edd0473bc835))
 				- Quelle: [[The future extent of the Anthropocene epoch: A synthesis]]
 	- Feedback-Prozesse und Klimasensitivität
+		- Meldung/Erklärung:
+			- [Studie: Erde könnte sich noch intensiver erwärmen als gedacht - Klima - derStandard.at › Wissenschaft](https://www.derstandard.at/story/3000000262699/erderw228rmung-laut-studie-langfristig-wom246glich-intensiver-als-gedacht?ref=entzs1 "Studie: Erde könnte sich noch intensiver erwärmen als gedacht - Klima - derStandard.at › Wissenschaft")
 		- ((67f5046c-11d3-4e95-8229-86e4137f6a01))
 			- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
 		- Unzureichende Berücksichtigung von feedback loops in den vorhandenen Klimamodellen
