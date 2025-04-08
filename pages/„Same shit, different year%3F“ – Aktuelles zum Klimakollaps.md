@@ -1,8 +1,12 @@
 - Entwicklung der wichtigsten Klimaindikatoren 2024 (und danach)
 	- Erstes Jahr über 1,5°
+		- ((67f38d04-5108-47ed-8624-cc4757257872))
+			- Quelle: [[State of the Global Climate 2024]]
+		- Weitere [[Indikatoren]]
 	- Erhitzung am oberen Limit der Prognosen
 	- Zunahme von Extremwetterereignissen
-	- Wenig oder kein Rückgang der Temperatursteigerung im Verhältnis zum normalen ENSO-Rhythmus
+		- [2024 Extreme Events Dashboard](https://experience.arcgis.com/experience/5cb119c71c6c4f8a89b837bf5cf353b8 "2024 Extreme Events Dashboard")
+	- Temperatur-Anomalien unterscheiden sich von denen des normalen ENSO-Rhythmus
 	- Suche nach den Ursachen
 - Die Grenzen des „uncharted territory“
 	- ((67f4dfb9-4409-4047-9b63-350b6d962fc0))
