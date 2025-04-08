@@ -46,3 +46,15 @@ file-path:: file:///home/heinz/Zotero/storage/IWRRY3AN/Kaufhold et al. - 2025 - 
   hl-page:: 10
   hl-color:: green
   id:: 67f50a9f-71c4-4ba2-908c-4f6439051c21
+- We have investigated the plausibility that the Earth system can undergo temperature changes significantly higher than usually expected in low-tointermediate emission scenarios (SSP1-2.6, SSP2-4.5 and SSP4-3.4) under a range of ECS between 2 ◦C and 5 ◦C as given by the IPCC (Forster et al 2021). Our simulations for the three scenarios show a large spread with up to a factor >3 difference in projected global temperature change resulting from uncertainties in the ECS and its interplay with carbon cycle feedbacks.
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 67f5216a-c5f5-4c1c-9e2d-e39642f0e6fb
+- [:span]
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 67f521dc-e2e1-4b36-b23e-9eef06c935ef
+  hl-type:: area
+  hl-stamp:: 1744118233637
