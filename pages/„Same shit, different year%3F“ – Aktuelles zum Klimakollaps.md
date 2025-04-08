@@ -12,11 +12,19 @@
 	- Energieungleichgewicht der Erde
 	- Erschöpfung von CO<sub>2</sub>-Senken
 	- Feedback-Prozesse und Klimasensitivität
+		- ((67f5046c-11d3-4e95-8229-86e4137f6a01))
+			- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
+		- Unzureichende Berücksichtigung von feedback loops in den vorhandenen Klimamodellen
+			- ((67f504f8-42bf-4137-813c-d918d7d65e02))
+				- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
+			- [[Interplay between climate and carbon cycle feedbacks could substantially enhance future warming]]
 - Klimakollaps und „extreme oil“
 	- Mehr Investitionen in fossile Energien
 	- Zu wenig Kapital für nachhaltige Investitionen
 	- Climate Backlash im globalen Norden
 	- Klimanotstand und faschistische Diskurse
+		- ((67f503ca-5a45-4f3e-8503-d4b54863254c))
+			- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
 - Was bedeutet das politisch/für die Kommunikation der „radikalen Klimabewegung“?
 	- Klima als public issue
 	- Ungerechtigkeit
