@@ -1,0 +1,25 @@
+- Entwicklung der wichtigsten Klimaindikatoren 2024 (und danach)
+	- Erstes Jahr über 1,5°
+	- Erhitzung am oberen Limit der Prognosen
+	- Zunahme von Extremwetterereignissen
+	- Wenig oder kein Rückgang der Temperatursteigerung im Verhältnis zum normalen ENSO-Rhythmus
+	- Suche nach den Ursachen
+- Die Grenzen des „uncharted territory“
+	- Energieungleichgewicht der Erde
+	- Erschöpfung von CO<sub>2</sub>-Senken
+	- Feedback-Prozesse und Klimasensitivität
+- Klimakollaps und „extreme oil“
+	- Mehr Investitionen in fossile Energien
+	- Zu wenig Kapital für nachhaltige Investitionen
+	- Climate Backlash im globalen Norden
+	- Klimanotstand und faschistische Diskurse
+- Was bedeutet das politisch/für die Kommunikation der „radikalen Klimabewegung“?
+	- Klima als public issue
+	- Ungerechtigkeit
+	- Verbindung mit anderen Krisen
+	- Risiko-Kommunikation
+-
+- Ich versuche einen Rückblick auf das Jahr 2024 aus der Perspektive von jemand, der vor allem die Klimaberichterstattung klassischer Zeitungen verfolgt. Dabei handelt es sich im weitesten Sinn um ein Zwischending zwischen journalistischer und historischer Langzeitperspektive. Anders gesagt: Es geht mir um eine möglichst nüchterne Kontextualisierung der Nachrichten.
+- Bei der Perspektive auf die einzelne Nachricht wird ausgeblendet, in welchen Kontinuitäten und vor allem Diskontinuitäten die Nachricht steht. Die einzelne Nachricht erscheint als Wiederholung ähnlicher, älterer Nachrichten und verliert dadurch ihren Nachrichtenwert. Clustert man die Nachrichten und sucht man nach den Verbindungen zwischen ihnen, dann stellt man fest, dass die Diskontinuität viel größer ist, als sie bei der einzelnen Nachricht sichtbar wird.
+- 2024 war ein Jahr, in dem die Prognosen hinsichtlich der Zukunft unsicher wurden, und zwar auf verschiedenen Ebenen: hinsichtlich des Wissens über die Entwicklung des Klimas, hinsichtlich der Klimapolitik des globalen Nordens, hinsichtlich ganz oder teilweise faschistischer politischer Akteure. Das erste Jahr, in dem die Temperaturen über 1,5° lagen war auch das erste Jahr, in dem das „uncharted territory“ sichtbar wurde, auf dem wir uns jenseits des 1,5°-Limits bewegen.
+- Wenn das stimmt, dann müssen wir uns in der Klimabewegung auf nichtlineare und disruptive Entwicklungen einstellen, nicht auf die Fortsetzung der negativen und positiven Trends der vergangenen Jahre. Wir müssen mit Ereignissen rechnen, die nicht in den Rahmen dessen passen, war wir kennen, und zwar auf den Gebieten des Klimas, der Erkenntnisse über das Klima und der Klimapolitik im weitesten Sinn.
