@@ -1,0 +1,8 @@
+hypothesis-uri:: https://www.dw.com/de/beccs-biomasse-kraftwerke-mit-co2-speicherung-bluff-oder-klimarettung/a-63557343
+hypothesis-title:: Mit Kraftwerken CO2 abfangen: Bluff oder Klimarettung? – DW – 31.01.2023
+hypothesis-naming-scheme:: 0.2.0
+
+- 📝 Studien zeigen, dass BECCS (Bioenergie mit CO₂-Abscheidung und -Speicherung) theoretisch CO₂ aus der Atmosphäre entfernen könnte, aber erhebliche Risiken birgt. Kritiker warnen, dass BECCS eine Scheinlösung sein könnte, da sie hohe Kosten, ökologische Nachteile und einen enormen Flächenbedarf hat. Der Weltklimarat (IPCC) betont die Notwendigkeit zusätzlicher CO₂-Entfernungstechnologien, doch BECCS ist in großem Maßstab kaum erprobt. Experten wie der Vorsitzende des Umweltlenkunsgremiums des Zusammenschlusses von Europas Wissenschaftsakademien (EASAC), die NGO Fern, und das britische Politikinstitut Chatham House weisen auf die Unzuverlässigkeit und die Gefahr der Überschätzung von BECCS hin, was zu verzögerten Emissionsminderungen führen könnte.
+  hid:: uyW1aidyEfC_3GfbYMG0IQ
+  updated:: 2025-05-03T07:40:58.482571+00:00
+  https://www.dw.com/de/beccs-biomasse-kraftwerke-mit-co2-speicherung-bluff-oder-klimarettung/a-63557343 [Zusammenfassung: generiert mit Mistral und redigiert] #[[by: Martin Kuebler]] #[[BECCS]] #[[Negative emission technologies]] #[[2023-01-31]] #[[Meron Tesfaye]] #[[Carbon180]] #[[Bioenergy Europe]] #[[FERN]] #[[Daniel Quiggin]] #[[Michael Norton]] #[[EASAC]] #[[Lars Walloe]]
