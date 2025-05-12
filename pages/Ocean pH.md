@@ -1,4 +1,4 @@
-type:: indicator
+type:: [[indicator]], [[headline indicator]]
 
 - Aktuelle Werte:
 - Relevante Entwicklungen:

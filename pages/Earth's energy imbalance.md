@@ -1,4 +1,4 @@
-type:: indicator
+type:: [[indicator]]
 alias:: Earth energy imbalance, EEI
 
 - Relevante Messungen:

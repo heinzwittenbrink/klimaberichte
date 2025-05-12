@@ -1,4 +1,4 @@
-type:: indicator
+type:: [[indicator]], [[headline indicator]]
 
 - Aktueller Wert
 	- Minimum Arktisches Meereis, 11.9.2024: 4,28 Millionen km2 (Quelle: [[State of the Global Climate 2024]])

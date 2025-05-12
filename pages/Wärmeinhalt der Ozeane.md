@@ -1,4 +1,4 @@
-type:: indicator
+type:: [[indicator]], [[headline indicator]]
 alias:: ocean heat content
 
 - Aktuelle Werte:

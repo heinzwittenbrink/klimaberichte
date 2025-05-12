@@ -1,10 +1,10 @@
 type:: process
-type:: indicator
+type:: [[indicator]], [[headline indicator]]
 alias:: Ansteigen des Kohlendioxid-Gehalts der Atmosphäre,
 
 - Aktuelle Werte:
-	- Februar 2025: 427,09 ppm
-	- Februar 2024: 424,55 ppm
+	- April 2025: 429,64 ppm
+	- April 2024: 426,51 ppm
 	- Quelle: [Trends in CO2 - NOAA Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends/ "Trends in CO2 - NOAA Global Monitoring Laboratory")
 - Rlevante Messergebnisse:
 	- ((67f375cd-7325-4d78-82db-56057c4d20de))

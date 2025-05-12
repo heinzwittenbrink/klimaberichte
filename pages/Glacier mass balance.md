@@ -1,4 +1,4 @@
-type:: indicator
+type:: [[indicator]], [[headline indicator]]
 
 - Relevante Entwicklungen:
 	- ((67f3f06e-8424-4dd9-80ca-1ea0d0d9e099))

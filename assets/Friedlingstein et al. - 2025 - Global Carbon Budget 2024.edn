@@ -57,4 +57,4 @@
                           :page 4},
                :content {:text "Global fossil CO2 emissions (including cement carbonation) are expected to further increase in 2024 by 0.8 %. The 2023 emissions increase was 0.14 GtC yr−1(0.5 GtCO2 yr−1) relative to 2022, bringing 2023 fossil CO2 emissions to 10.1 ± 0.5 GtC yr−1 (36.8 ± 1.8 GtCO2 yr−1). Preliminary estimates based on data available suggest fossil CO2 emissions have increased further in 2024, by 0.8 % relative to 2023 (−0.2 % to1.7 %), bringing emissions to 10.2 GtC yr−1 (37.4 GtCO2 yr−1)"},
                :properties {:color "yellow"}}],
- :extra {:page 4}}
+ :extra {:page 1}}

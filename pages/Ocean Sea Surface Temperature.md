@@ -1,4 +1,4 @@
-type:: indicator
+type:: [[indicator]]
 
 - Aktuelle Werte
 	- [[2024]]

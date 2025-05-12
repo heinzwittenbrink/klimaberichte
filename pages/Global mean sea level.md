@@ -1,4 +1,4 @@
-type:: indicator
+type:: [[indicator]], [[headline indicator]]
 
 - Aktueller Wert: 102,4 mm Anstieg seit 1993
 	- (Quelle: [Global Mean Sea Level | Vital Signs – NASA Sea Level Change Portal](https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level "Global Mean Sea Level | Vital Signs – NASA Sea Level Change Portal"))
