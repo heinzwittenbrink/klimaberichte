@@ -1,0 +1,3 @@
+- {{query (page-property :type "emission-indicator")}}
+-
+-

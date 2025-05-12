@@ -12,7 +12,7 @@
 	- Erstes Jahr über 1,5°
 		- ((67f38d04-5108-47ed-8624-cc4757257872))
 			- Quelle: [[State of the Global Climate 2024]]
-		- Weitere [[Indikatoren]]
+		- Weitere [[Klimaindikatoren]]
 	- Erhitzung am oberen Limit der Prognosen
 	- Zunahme von Extremwetterereignissen
 		- [2024 Extreme Events Dashboard](https://experience.arcgis.com/experience/5cb119c71c6c4f8a89b837bf5cf353b8 "2024 Extreme Events Dashboard")

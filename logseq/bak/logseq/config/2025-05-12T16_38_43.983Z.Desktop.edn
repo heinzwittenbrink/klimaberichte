@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["berichte" "studien" "prozesse" "indikatoren" "events"]
+ :favorites ["Treiber" "Emissions-Indikatoren" "klimaindikatoren" "klima-indikatoren" "wichtigste klimaindikatoren" "Headline Indicators" "studien" "prozesse" "indikatoren" "berichte" "events"]
 
  ;; Set flashcards interval.
  ;; Expected value:
