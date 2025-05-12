@@ -1,5 +1,6 @@
 type:: indicator
 
+- Aktuelle Werte:
 - Relevante Entwicklungen:
 	- ((67f3ef8a-6cb8-4e13-aad5-0da0a95df561))
 		- Quelle: [[State of the Global Climate 2024]]

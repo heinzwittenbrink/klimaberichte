@@ -1,5 +1,5 @@
 alias:: Global mean temperature, Global mean near surface temperature
-type:: indicator
+type:: indicator, [[headline indicator]]
 
 - Aktuelle Werte:
 	- 2024: 1.62 ± 0.06 °C über dem Durchschnitt der Jahre 1850-1900
