@@ -1,8 +1,9 @@
-- Einleitung
+### Einleitung
+collapsed:: true
 	- Den Titel habe ich im Guardian gefunden: [‘Same shit, different year’: Australia records hottest 12 months and warmest March on record | Australia weather | The Guardian](https://www.theguardian.com/environment/2025/apr/03/australia-records-hottest-12-months-and-warmest-march-weather-on-record "‘Same shit, different year’: Australia records hottest 12 months and warmest March on record | Australia weather | The Guardian")
 	- [[2024]] war ein Jahr, in dem die Prognosen hinsichtlich der Zukunft unsicher wurden, und zwar auf verschiedenen Ebenen: hinsichtlich des Wissens über die Entwicklung des Klimas, hinsichtlich der Klimapolitik des globalen Nordens, hinsichtlich ganz oder teilweise faschistischer politischer Akteure. Das erste Jahr, in dem die Temperaturen über 1,5° lagen war auch das erste Jahr, in dem das „uncharted territory“ sichtbar wurde, auf dem wir uns jenseits des 1,5°-Limits bewegen.
 	- Wenn das stimmt, dann müssen wir uns in der Klimabewegung auf nichtlineare und disruptive Entwicklungen einstellen, nicht auf die Fortsetzung der negativen und positiven Trends der vergangenen Jahre. Wir müssen mit Ereignissen rechnen, die nicht in den Rahmen dessen passen, war wir kennen, und zwar auf den Gebieten des Klimas, der Erkenntnisse über das Klima und der Klimapolitik im weitesten Sinn.
-- Entwicklung der wichtigsten Klima- und Emissionsindikatoren 2024 (und danach)
+- ### Entwicklung der wichtiger Klima- und Emissionsindikatoren 2024 (und danach)
 	- Quellen:
 		- [[State of the Global Climate 2024]] (Dieser Bericht geht zurück auf die das [[Global Climate Observing System]] oder [[GCOS]].)
 		- [[Indicators of Global Climate Change 2024: annual update of key indicators of the state of the climate system and human influence]] (Geht u.a. zurück auf das Projekt [[Indicators of Global Climate Change]] oder [[IGCC]]. Bei diesem Projekt wird vor allem auf Kompatibilität der Daten mit den Berichten des [[IPCC]] Wert gelegt.)
@@ -24,55 +25,60 @@
 	- Die Temperatur-Anomalien der letzten Jahre unterscheiden sich von denen des normalen ENSO-Rhythmus (der Oszillation von Temperaturen und Strömungen im Südpazifik, zu der die El Niño-Ereignisse gehören).
 		- [State of the climate: 2024 sets a new record as the first year above 1.5C - Carbon Brief](https://www.carbonbrief.org/state-of-the-climate-2024-sets-a-new-record-as-the-first-year-above-1-5c/ "State of the climate: 2024 sets a new record as the first year above 1.5C - Carbon Brief")
 	- Die Suche nach den Ursachen ist noch nicht abgeschlossen. Eine Ursache sind die geringeren Schwefeldioxid-Emissionen durch die Schifffahrt. Sie reicht aber zur Erklärung nicht aus. In der Klimawissenschaft ist die Frage noch nicht beantwortet, ob wichtige Teile des Klimasystems noch unverstanden sind. Eine der Hypothesen zur Erklärung der Anomalien ist, dass sich die Erhitzung tieferer Schichten der Ozeane beschleunigt hat (siehe unten).
-	- Zunahme von Extremwetterereignissen
-		- [2024 Extreme Events Dashboard](https://experience.arcgis.com/experience/5cb119c71c6c4f8a89b837bf5cf353b8 "2024 Extreme Events Dashboard")
-- Die Grenzen des „uncharted territory“
+- ## Extreme Werte auch bei Treibhausgasemissionen
+	- Auch der Treibhausgehalt der Atmosphäre ist weiter gestiegen. n.
+	- ((6821f90f-0be8-44f1-81c1-69e69b6b60a0))
+		- [[Indicators of Global Climate Change 2024: annual update of key indicators of the state of the climate system and human influence]]
+	- Den größten Anteil haben die CO2-Emissionen aus fossilen Brennstoffe.
+	- ((682222ef-6de6-409f-a0fd-95f104eff65c))
+		- [[Global Energy Review 2025]]
+	- Sie lagen bei ca. 38 Gigatonnen.
+	- ((6822181a-040d-4905-ae9c-48d7d0599e9b))
+		- [[Indicators of Global Climate Change]]
+- ### Zunahme von Extremwetterereignissen
+	- [2024 Extreme Events Dashboard](https://experience.arcgis.com/experience/5cb119c71c6c4f8a89b837bf5cf353b8 "2024 Extreme Events Dashboard")
+- ### An der Grenze zum „uncharted territory“
 	- Nicht nur die Temperaturanomalien, sondern auch viele Extremereignisse des Jahres 2024 zeigen: Die globale Erhitzung hat das Erdsystem bereits deutlich verändert. Viele der gewohnten Erwartungen hinsichtlich des Wetters und des Klimas gelten nicht mehr.
 	- ((67f4dfb9-4409-4047-9b63-350b6d962fc0))
 		- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
 	- ![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioscience/74/12/10.1093_biosci_biae087/2/m_biae087fig2.jpeg?Expires=1746725296&Signature=PiZyuDJ2ccg3igefgpsgck0VXpH13WE-a5wOPOmTkhHdnRcJGHwMr66l8EKAslrSdo3lvOz71dleWqqMAKB2u8PT7msLxi2TYum9YlKkyMoZuP6zf~-lA3kD-tmoDl3Zzym2RgT-I4qnMnc1YD1KXeH13J8BBb8tiCmjPJoWesSHPeGbgyz1rQ3vRRdFMhPRIWYsn1z1bHv7OhOHDl79BweRFazbzNT1gw2BvcyH00n3bBOtomTF8nD8Ud6mh~hAOMSN7USV-yo3AD8hZMaUMCsvVRDUx1RZwEzyqDe8BdelQKalPU9~a3-IP82N6~5rRFVKymZ4X89H94cI~b84wA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 	- ((67f501a4-269d-4208-8564-82aa10e0fa9b))
 		- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
-	- Eine Ursache dafür, dass die Temperaturen 2024 mehr als erwartet gestiegen sind, dürfte darin bestehen, dass sich tiefere Schichten der Meere inzwischen schneller erhitzen als in vergangenen Jahrzehnten.
+- ### Energieungleichgewicht der Meere, Erhitzung der Meere und die Temperaturanomalien 2024
+	- Eine Ursache dafür, dass die Temperaturen 2024 mehr als erwartet gestiegen sind, dürfte darin bestehen, dass sich **tiefere Schichten der Meere inzwischen schneller erhitzen als in vergangenen Jahrzehnten**.
 		- Durch die Treibhausgase in der Atmosphäre kommt es zu einem [[Energieungleichgewicht der Erde]]. Die Erde strahlt weniger Energie ins Weltall ab, als sie von der Sonne aufnimmt. Über 90% der überschüssigen Energie werden von den Ozeanen absorbiert.
 		- Wenn man berücksichtigt, dass sich die Erhitzung der tieferen Zonen der Ozeane beschleunigt, und dass  das wärmere Tiefenwasser auch die Oberfläche weiter erwärmt, dann lässt sich die Temperaturanomalie der vergangenen Jahre modellieren/erklären.
 		- Klimawissenschaftler um [[James Hansen]] gehen davon aus, dass das Energieungleichgewicht der Erde in den kommenden Jahrzehnten zu deutlich größeren Temperaturerhöhungen führen wird, als es der IPCC bisher prognostiziert. Hansen spricht vom [[Global warming in the pipeline]]. Dazu gibt es bisher keinen Konsens in der Klimawissenschaft. Siehe dazu [[The Paris Agreement 10 years on: Tipping points and the future of carbon budgets with Kevin Anderson]]. Auch die Forschenden, die Hansen nicht zustimmen, sind für einen schnellen und radikalen Stopp der Treibhausgas-Emissionen.
 		- Meldung/Erklärungen:
 			- [DK132 - Der Grund für die Erwärmung der Meere - Das Klima - Podcast](https://dasklima.podigee.io/132-dk132-der-grund-fur-die-erwarmung-der-meere "DK132 - Der Grund für die Erwärmung der Meere - Das Klima - Podcast")
 			- [Ocean surface warming four times faster now than late 1980s - University of Reading](https://www.reading.ac.uk/news/2025/Research-News/Ocean-surface-warming-four-times-faster-now-than-late-1980s "Ocean surface warming four times faster now than late 1980s - University of Reading")
-		- [[Earth's energy imbalance]]
-			- ((67f3e97f-e641-4f81-b71c-d7362f1a6c00))
-				- Quelle: [[Quantifying the acceleration of multidecadal global sea surface warming driven by Earth’s energy imbalance]]
-			- ((67f51ffc-5dbd-4b2e-9916-dc4245c82bca))
-				- Quelle: [[The future extent of the Anthropocene epoch: A synthesis]]
-			- ((67f520a0-a6f7-4d76-937e-edd0473bc835))
-				- Quelle: [[The future extent of the Anthropocene epoch: A synthesis]]
-	- Feedback-Prozesse und Klimasensitivität
-		- Meldung/Erklärung:
-			- [Studie: Erde könnte sich noch intensiver erwärmen als gedacht - Klima - derStandard.at › Wissenschaft](https://www.derstandard.at/story/3000000262699/erderw228rmung-laut-studie-langfristig-wom246glich-intensiver-als-gedacht?ref=entzs1 "Studie: Erde könnte sich noch intensiver erwärmen als gedacht - Klima - derStandard.at › Wissenschaft")
-		- ((67f5046c-11d3-4e95-8229-86e4137f6a01))
+			- siehe auch: [[Earth's energy imbalance]]
+- ### Wurde das Ausmaß der Erhitzung bisher unterschätzt? Feedback-Prozesse und Klimasensitivität
+	- Möglicherweise wurde in den vorhandenen Szenarien für die künftige Erhitzung zu wenig berücksichtigt, wie sehr Feedback-Loops im Klimasystem die Erhitzung antreiben können. Eine neue Studie spricht dafür, dass die Risiken einer stärkeren Erwärmung selbst dann, wenn es gelingt, die Emissionen deutlich zu begrenzen, unterschätzt wurde.
+	- In dieser Studie geht es darum, wie sich wichtige Feedback-Loops auf die [[Klimasensitivität der Erde]] ([[Earth's Climate Sensitivity]], [[ECS]]) auswirken können. Als Klimasensitivität der Erde wird angegeben, um wieviel sich die Temperatur auf der Erde erhöht, wenn sich der Treibhausgasgehalt der Atmosphäre verdoppelt.
+	- Meldung/Erklärung:
+		- [Studie: Erde könnte sich noch intensiver erwärmen als gedacht - Klima - derStandard.at › Wissenschaft](https://www.derstandard.at/story/3000000262699/erderw228rmung-laut-studie-langfristig-wom246glich-intensiver-als-gedacht?ref=entzs1 "Studie: Erde könnte sich noch intensiver erwärmen als gedacht - Klima - derStandard.at › Wissenschaft")
+	- ((67f5046c-11d3-4e95-8229-86e4137f6a01))
+		- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
+	- Unzureichende Berücksichtigung von feedback loops in den vorhandenen Klimamodellen
+		- ((67f504f8-42bf-4137-813c-d918d7d65e02))
 			- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
-		- Unzureichende Berücksichtigung von feedback loops in den vorhandenen Klimamodellen
-			- ((67f504f8-42bf-4137-813c-d918d7d65e02))
-				- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
-			- ((67f521dc-e2e1-4b36-b23e-9eef06c935ef))
-				- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
-			- ((67f5216a-c5f5-4c1c-9e2d-e39642f0e6fb))
-				- Quelle:[[Interplay between climate and carbon cycle feedbacks could substantially enhance future warming]]
+		- ((67f521dc-e2e1-4b36-b23e-9eef06c935ef))
+			- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
+		- ((67f5216a-c5f5-4c1c-9e2d-e39642f0e6fb))
+			- Quelle:[[Interplay between climate and carbon cycle feedbacks could substantially enhance future warming]]
 - Klimakollaps und „extreme oil“
-	- Mehr Investitionen in fossile Energien
+	- In der Energiebranche wird seit Jahrzehnten vom [[peak oil]] geredet, vom bald kommenden Höhepunkt der Ölförderung. Tatsächlich steigen die Investitionen in die fossile Energien weiter. Wissenschaftler wir Éric Pineault sprechen deshalb von [[extreme oil]].
+	- 2024 sind auch die Investitionen in fossile Energien weiter gestiegen.
 	- Zu wenig Kapital für nachhaltige Investitionen
 	- Climate Backlash im globalen Norden
 	- Klimanotstand und faschistische Diskurse
 		- ((67f503ca-5a45-4f3e-8503-d4b54863254c))
 			- Quelle: [[The 2024 state of the climate report: Perilous times on planet Earth]]
-- Was bedeutet das politisch/für die Kommunikation der „radikalen Klimabewegung“?
+- Diskussion: Was bedeutet das politisch/für die Kommunikation der „radikalen Klimabewegung“?
 	- Klima als public issue
 	- Ungerechtigkeit
 	- Verbindung mit anderen Krisen
 	- Risiko-Kommunikation
-- Material zur Methode
-	- Ich versuche einen Rückblick auf das Jahr 2024 aus der Perspektive von jemand, der vor allem die Klimaberichterstattung klassischer Zeitungen verfolgt. Dabei handelt es sich im weitesten Sinn um ein Zwischending zwischen journalistischer und historischer Langzeitperspektive. Anders gesagt: Es geht mir um eine möglichst nüchterne Kontextualisierung der Nachrichten.
-		- Bei der Perspektive auf die einzelne Nachricht wird ausgeblendet, in welchen Kontinuitäten und vor allem Diskontinuitäten die Nachricht steht. Die einzelne Nachricht erscheint als Wiederholung ähnlicher, älterer Nachrichten und verliert dadurch ihren Nachrichtenwert. Clustert man die Nachrichten und sucht man nach den Verbindungen zwischen ihnen, dann stellt man fest, dass die Diskontinuität viel größer ist, als sie bei der einzelnen Nachricht sichtbar wird.
-	- Erste Version dieser Seite: 2024-04-08. Dazu in meinem Blog: [„Same shit, different year“? – Beim Rückblick auf 2024 – Lost and Found](https://wittenbrink.net/same-shit-different-year-beim-rueckblick-auf-2024/ "„Same shit, different year“? – Beim Rückblick auf 2024 – Lost and Found")
+- Erste Version dieser Seite: [[2024-04-08]]. Dazu in meinem Blog: [„Same shit, different year“? – Beim Rückblick auf 2024 – Lost and Found](https://wittenbrink.net/same-shit-different-year-beim-rueckblick-auf-2024/ "„Same shit, different year“? – Beim Rückblick auf 2024 – Lost and Found")
 	-

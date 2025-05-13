@@ -1,5 +1,3 @@
-type:: driver
-
 - Aktuelle Werte
 	- ((68222261-7ac3-4f31-99d0-86d354c79007))
 		- [[Global Energy Review 2025]]
