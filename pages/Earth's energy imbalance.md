@@ -1,5 +1,5 @@
 type:: [[indicator]]
-alias:: Earth energy imbalance, EEI
+alias:: Earth energy imbalance, EEI, Energieungleichgewicht der Erde
 
 - Relevante Messungen:
 	- ((67f3e3f5-c112-4c3b-b9ea-1a1a2d9ed315)) (Quelle: [[Quantifying the acceleration of multidecadal global sea surface warming driven by Earth’s energy imbalance]] )
