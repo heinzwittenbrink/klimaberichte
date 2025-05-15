@@ -1,0 +1,8 @@
+hypothesis-uri:: https://www.theguardian.com/environment/2025/may/14/car-use-and-meat-consumption-drive-emissions-gender-gap-research-suggests
+hypothesis-title:: Car use and meat consumption drive emissions gender gap, research suggests
+hypothesis-naming-scheme:: 0.2.0
+
+- 📝 Am 14.05.2025 zeigte eine französische Studie mit 15.000 Teilnehmern, dass Männer 26 % mehr Treibhausgase ausstoßen als Frauen, hauptsächlich durch höheren Fleischkonsum und Autonutzung. Nach Kontrolle sozioökonomischer Faktoren beträgt der Unterschied 18 %. Der Konsum von rotem Fleisch und das Autofahren erklären fast den gesamten verbleibenden Unterschied von 6,5-9,5 %. Traditionelle Geschlechternormen, die Männlichkeit mit Fleischkonsum und Autofahren verbinden, spielen eine bedeutende Rolle. Frauen zeigen mehr Besorgnis über die Klimakrise, was zu klimafreundlicherem Verhalten führen könnte. [Zusammenfassung mit Mistral generiert]
+  hid:: zv2QcjB8EfCH6P_qY28e-g
+  updated:: 2025-05-14T08:31:12.441664+00:00
+  https://www.theguardian.com/environment/2025/may/14/car-use-and-meat-consumption-drive-emissions-gender-gap-research-suggests #[[Ondine Berland]] #[[London School of Economics and Political Science]] #[[Marion Leroutier]] #[[Crest-Ensae Paris]] #[[climate emergency]] #[[gender]] #[[carbon inequality]] #[[consumption habits]] #[[meat consumption]] #[[nutrition]] #[[car use]] #[[flying]] #[[by: Ajit Niranjan]] #[[2024-05-14]]
