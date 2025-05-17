@@ -6,7 +6,7 @@ Am Beginn sollen als Page Properties in Key-Value-Form, getrennt durch doppelte 
     url:: (URL des Artikels)
     title:: (Titel auf Deutsch)
     authors:: (Autorinnen/Autoren des Artikels, Vorname und Zuname, Name jeweils in doppelten eckigen Klammern)
-    date:: (Publikationsdatum in der Form Jahreszahl-Monat-Tag, z.B. [[2025-05-15]])
+    date:: (Publikationsdatum des zusammengefassten Artikels, wenn es erkennbar ist, in der Form Jahreszahl-Monat-Tag, z.B. [[2025-05-15]])
     tags:: (Tags, durch Kommas getrennt)
 
 Beispiel:
@@ -18,7 +18,9 @@ authors:: [[Jonas Waack]]
 date:: [[2025-05-15]]
 tags:: Texas, Donald Trump, Brigitte Knopf, Julia Verlinden, Hans-Martin Henning, Barbara Schlomann, Marc Oliver Bettzüge
 
-Die Zusammenfassung soll (ohne Tags) maximal 500 Zeichen umfassen. Sie soll sich auf Tatsachen und Meinungen beschränken, die im Artikel erwähnt werden. Sie ist Teil einer Chronik zur Klimakrise, die sich mit den Folgen politischer und wirtschaftlicher Entscheidungen für die Treibhausgasemissionen sowie den menschlichen und wirtschaftlichen Auswirkungen der globalen Erwärmung befasst. Die Zusammenfassung sollte möglichst viele quantitative Daten sowie Hinweise auf Studien und andere relevante Dokumente enthalten.
+Der value des key-value-Paars dieser page properties darf nur angegeben werden, wenn er eindeutig erkennbar ist.
+
+Die Zusammenfassung soll (ohne Tags und page-properties) maximal 500 Zeichen umfassen. Sie soll sich auf Tatsachen und Meinungen beschränken, die im Artikel erwähnt werden. Sie ist Teil einer Chronik zur Klimakrise, die sich mit den Folgen politischer und wirtschaftlicher Entscheidungen für die Treibhausgasemissionen sowie den menschlichen und wirtschaftlichen Auswirkungen der globalen Erwärmung befasst. Die Zusammenfassung sollte möglichst viele quantitative Daten sowie Hinweise auf Studien und andere relevante Dokumente enthalten.
 
 Beginne die Zusammenfassung, wenn möglich, mit einem Datum oder einem datierbaren Ereignis, z.B.: "Am 5.7.2025 erschien eine Studie, die..." oder "Im Monat ...". Das Datum muss sich auf das berichtete Ereignis beziehen, nicht auf das Datum des Berichts selbst.
 
@@ -50,7 +52,7 @@ Für die Tags gelten folgende Regeln:
         Regionen (mit der Zeichenkette "region: " davor, z.B. "region: mediterranean", "region: France")
         Alle im Artikel genannten Namen von Wissenschaftlerinnen, Wissenschaftlern, Expertinnen, Experten, Vertreterinnen und Vertretern von NGOs (z.B. "Zeke Hausfather", "Greta Thunberg")
         Alle im Artikel genannten Namen von Namen von Firmen (z.B. "Shell", "RWE")
-        Alle im Artikel genannten Namen von Namen von NGOs, Interessenvertretungen und Parteien (z.B. "American Petroleum Institute")
+        Alle im Artikel genannten Namen von Namen von NGOs, Organisationen, Interessenvertretungen und Parteien (z.B. "American Petroleum Institute")
         Titel von wissenschaftlichen Studien, Berichten, Gesetzen, Beschlüssen und anderen Texten (z.B. "Shifting expenditure on food, holidays, and furnishings could lower greenhouse gas emissions")
         Politische Programme und Zielsetzungen (z.B. "Green Deal", "Project 2025")
         Konferenzen (z.B. "COP30")
