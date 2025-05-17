@@ -1,0 +1,59 @@
+Bitte fasse den folgenden Artikel (im Markdown-Format) in deutscher Sprache zusammen. Das Ergebnis soll ein in Logseq kopierbarer Text sein, der die Zusammenfassung enthält und auf den eine Reihe von Tags folgt.
+
+Am Beginn sollen als Page Properties in Key-Value-Form, getrennt durch doppelte Doppelpunkte, stehen:
+
+    original-title:: (Originaltitel des Artikels)
+    url:: (URL des Artikels)
+    title:: (Titel auf Deutsch)
+    authors:: (Autorinnen/Autoren, Namen jeweils in doppelten eckigen Klammern)
+    date:: (Publikationsdatum in der Form Jahreszahl-Monat-Tag, z.B. [[2025-05-15]])
+    tags:: (Tags, durch Kommas getrennt)
+
+Beispiel:
+
+original-title:: Texas swelters as record-breaking heatwave sweeps across state
+url:: https://www.theguardian.com/us-news/2025/may/15/texas-record-heat
+title:: Texas schwitzt, während eine rekordbrechende Hitzewelle durch das Land zieht
+authors:: [[Marina Dunbar]]
+date:: [[2025-05-15]]
+tags:: Texas, Donald Trump
+
+Die Zusammenfassung soll maximal 500 Zeichen umfassen. Sie soll sich auf Tatsachen und Meinungen beschränken, die im Artikel erwähnt werden. Sie ist Teil einer Chronik zur Klimakrise, die sich mit den Folgen politischer und wirtschaftlicher Entscheidungen für die Treibhausgasemissionen sowie den menschlichen und wirtschaftlichen Auswirkungen der globalen Erwärmung befasst. Die Zusammenfassung sollte möglichst viele quantitative Daten sowie Hinweise auf Studien und andere relevante Dokumente enthalten.
+
+Beginne die Zusammenfassung, wenn möglich, mit einem Datum oder einem datierbaren Ereignis, z.B.: "Am 5.7.2025 erschien eine Studie, die..." oder "Im Monat ...". Das Datum muss sich auf das berichtete Ereignis beziehen, nicht auf das Datum des Berichts selbst.
+
+Bitte behalte, soweit möglich, die Namen von Firmen, Parteien, NGOs, Personen und Institutionen in der Zusammenfassung. Behalte auch die Namen von genannten Ländern, Orten und Regionen bei.
+
+Wenn es sich um eine Nachricht zu einem politischen Ereignis handelt, haben folgende Punkte hohe Priorität:
+
+    Wer wie viel in Gas, Öl oder andere Energieträger oder Energieinfrastruktur investiert.
+    Welche Folgen für Treibhausgasemissionen das Ereignis hat oder haben könnte, wenn solche Folgen genannt sind.
+    Welche Programme, Gesetze oder Regulierungen genannt werden, wenn sie genannt werden.
+    Welche Vorhaben oder Richtlinien mit Auswirkungen auf Treibhausgasemissionen oder Klimawandelanpassung genannt werden, wenn sie genannt werden.
+    Welche Extremwetterereignisse und welche Folgen der Klimakrise genannt werden, wenn sie genannt werden.
+
+Orientiere dich bei der Priorisierung am Aufbau des Artikels. Die wichtigsten Informationen stehen am Beginn. Wenn sich nur ein Teil des Artikels auf fossile oder erneuerbare Energien oder die Klimakrise bezieht, gib diesem Teil die oberste Priorität und stelle ihn an den Anfang.
+
+Wenn der Text nur sehr unvollständig in 500 Zeichen zusammenzufassen ist, dann erwähne im letzten Satz, wovon noch die Rede ist.
+
+Beende die Zusammenfassung (außerhalb der maximal 500 Zeichen) mit der Zeichenkette: "[Zusammenfassung mit Mistral generiert]".
+
+Für die Tags gelten folgende Regeln:
+
+    Die Tags sind immer englisch, außer wenn sie sich nicht eindeutig übersetzen lassen oder wenn es sich um originalsprachliche Titel von Texten handelt.
+    Verwende folgende Tags/Kategorien, wenn eine Information zu ihnen im Text vorkommt bzw. ein entsprechender Gegenstand genannt wird:
+        Staaten bzw. Staatenbünde (z.B. "EU", "US", "France")
+        Regionen (mit der Zeichenkette "region: " davor, z.B. "region: mediterranean", "region: France")
+        Namen von Wissenschaftlerinnen, Wissenschaftlern, Expertinnen, Experten, Vertreterinnen und Vertretern von NGOs (z.B. "Zeke Hausfather", "Greta Thunberg")
+        Namen von Firmen (z.B. "Shell", "RWE")
+        Namen von NGOs, Interessenvertretungen und Parteien (z.B. "American Petroleum Institute")
+        Titel von wissenschaftlichen Studien, Berichten, Gesetzen, Beschlüssen und anderen Texten (z.B. "Shifting expenditure on food, holidays, and furnishings could lower greenhouse gas emissions")
+        Politische Programme und Zielsetzungen (z.B. "Green Deal", "Project 2025")
+        Indikatoren für Klimawandel/globale Erhitzung und Treibhausgasemissionen (z.B. "greenhouse gas concentration in the atmosphere", "CO<sub>2</sub>-concentration in the atmosphere", "near surface temperature", "sea surface temperature", "fossil energy investments", "renewable energy investments", "nuclear energy investments", "energy demand", "electricity demand")
+        Industrie- und Wirtschaftsbranchen (z.B. "agriculture", "tourism", "automotive")
+        Themen (z.B. "legal action against fossil emissions", "civil disobedience", "criminalisation of climate action", "climate action", "energy transition")
+        Akteure in Bezug auf Klimaschutz oder Emissionen (z.B. "Fridays for Future", "Republican Party")
+        Zeitspannen (mit dem Wort "timeframe: " davor, z.B. "timeframe: 2024", "timeframe: 2022-2050")
+        Modus der Zeitspanne (mit dem Wort "mode: " davor, z.B. "mode: report", "mode: prognosis", "mode: government plan")
+        Typen von Extremwetter-Ereignissen (z.B. "heatwave", "marine heatwave", "tropical storm", "flooding", "wildfire")
+        Attribution (z.B. "attribution")
