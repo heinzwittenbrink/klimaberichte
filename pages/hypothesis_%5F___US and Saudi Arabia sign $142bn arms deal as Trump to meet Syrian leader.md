@@ -12,4 +12,4 @@ hypothesis-naming-scheme:: 0.2.0
   hid:: wzIktDCWEfCs7Jfm4WecDQ
   updated:: 2025-05-15T04:46:44.889229+00:00
   
-  https://www.theguardian.com/us-news/2025/may/13/us-saudi-arabia-arms-deal-trump-meeting-syria #[[BlackRock]] #[[Citigroup]] #[[USA]] #[[Qatar]] #[[UAE]] #[[Syria]] #[[Trump administration]] #[[Saudi Arabia]] #[[2025-05-13]] #[[climate emergency]]
+  https://www.theguardian.com/us-news/2025/may/13/us-saudi-arabia-arms-deal-trump-meeting-syria #[[BlackRock]] #[[Citigroup]] #[[US]] #[[Qatar]] #[[UAE]] #[[Syria]] #[[Trump administration]] #[[Saudi Arabia]] #[[2025-05-13]] #[[climate emergency]]

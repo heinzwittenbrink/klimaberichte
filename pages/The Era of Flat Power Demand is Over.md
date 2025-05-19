@@ -1,5 +1,5 @@
 institution:: GridStrategies
-tags:: [[USA]], [[electricity demand]]
+tags:: [[US]], [[electricity demand]]
 date:: 2023-12
 title:: The Era of Flat Power Demand is Over
 item-type:: [[report]]

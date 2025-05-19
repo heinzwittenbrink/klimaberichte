@@ -1,6 +1,6 @@
 - 📝 Die amerikanische Behörde zur Energie-Regulierung hat die Bestimmungen für Stromnetze radikal reformiert, um die Produktion erneuerbarer Energien zu fördern. Unter anderem müssen Netzbetreiber für den voraussichtlichen Bedarf in 20 Jahren planen. Einem neuen Report zufolge werden 50% der positiven Effekte des Inflation Reduction Act auf die Senkung der Emissionen verloren gehen, wenn die amerikanischen Stromnetze nicht grundsätzlich gründlich überholt werden.
   id:: 6644c83d-803e-4a16-933b-2d7ec76dbf12
-  https://www.nytimes.com/2024/05/13/climate/electric-grid-overhaul-ferc.html #[[USA]] #[[Federal Energy Regulatory Commission]] #[[American Clean Power Association]] #[[Energiewende]] #[[Ari Peskoe]] #[[Electricity Law Initiative at Harvard Law School]] #[[by: Brad Plumer]] #[[2024-05-13]]
+  https://www.nytimes.com/2024/05/13/climate/electric-grid-overhaul-ferc.html #[[US]] #[[Federal Energy Regulatory Commission]] #[[American Clean Power Association]] #[[Energiewende]] #[[Ari Peskoe]] #[[Electricity Law Initiative at Harvard Law School]] #[[by: Brad Plumer]] #[[2024-05-13]]
 	- *Event:* [[Neue Bestimmungen für Stromnetze in den USA]]
 	- 📌 Zitat: „Nationwide, energy companies have proposed more than 11,000 wind, solar and battery projects, but many are in limbo because there’s not enough capacity on the grid to accommodate them.“
 	- 📌 Zitat: „To allay those concerns, the commission laid out guidelines around how to split the costs of new transmission projects“

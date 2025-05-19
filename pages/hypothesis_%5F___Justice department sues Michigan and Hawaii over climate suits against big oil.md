@@ -9,7 +9,7 @@ hypothesis-naming-scheme:: 0.2.0
   hid:: 5QU4kim2EfC-5aeM-v82Pg
   updated:: 2025-05-05T14:11:09.360008+00:00
   https://www.theguardian.com/us-news/2025/may/01/justice-department-lawsuit-climate-hawaii-michigan
-   #[[USA]] #[[Trump administration]] #[[Michael Gerrard]] #[[Columbia University Sabin Center for Climate Change Law]] #[[2025-05-01]] #[[Ann Carlson]]
+   #[[US]] #[[Trump administration]] #[[Michael Gerrard]] #[[Columbia University Sabin Center for Climate Change Law]] #[[2025-05-01]] #[[Ann Carlson]]
 - 📌 Zitat: justice department argues that Hawaii and Michigan are violating the intent of the act that enables the EPA authority to set nationwide standards for greenhouse gases, citing the states’ pending litigation against
   hid:: Af4Jpim3EfCJwN8SoIRW1A
   updated:: 2025-05-05T13:44:03.647428+00:00

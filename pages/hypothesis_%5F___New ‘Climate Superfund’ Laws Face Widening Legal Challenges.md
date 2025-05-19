@@ -6,7 +6,7 @@ hypothesis-naming-scheme:: 0.2.0
   hid:: mpq4yCm1EfCPWFNdYJhsYQ
   updated:: 2025-05-05T14:15:38.409122+00:00
   [Zusammenfassung mit Mistral generiert und leicht überarbeitet]
-  https://www.nytimes.com/2025/05/02/climate/climate-superfund-law-vermont-new-york-lawsuits.html #[[USA]] #[[Trump administration]] #[[by: Karen Zraick]] #[[2025-05-02]] #[[climate superfund laws]] #[[American Petroleum Institute]] #[[US Chamber of Commerce]] #[[Patrick Parenteau]] #[[Meghan Greenfield]] #[[legal action]]
+  https://www.nytimes.com/2025/05/02/climate/climate-superfund-law-vermont-new-york-lawsuits.html #[[US]] #[[Trump administration]] #[[by: Karen Zraick]] #[[2025-05-02]] #[[climate superfund laws]] #[[American Petroleum Institute]] #[[US Chamber of Commerce]] #[[Patrick Parenteau]] #[[Meghan Greenfield]] #[[legal action]]
 - 📌 Zitat: The Trump administration sued to block two state laws designed to force oil companies to pay the costs of climate change. Several other states are joining the fight, too
   hid:: x4vk9im1EfCXZgcxJnLf0Q
   updated:: 2025-05-05T13:35:16.096846+00:00
