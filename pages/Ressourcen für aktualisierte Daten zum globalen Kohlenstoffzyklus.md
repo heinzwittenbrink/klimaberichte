@@ -3,5 +3,7 @@
 - [[World Energy Investment 2024]]
 - [[World Energy Statistics | Enerdata]]
 - [[Statistical Review of World Energy 2024]]
+- [[Global Forest Review]]
+-
 -
 -

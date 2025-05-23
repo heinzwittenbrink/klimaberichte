@@ -1,10 +1,11 @@
-original-title:: ‘Global red alert’: forest loss hits record high – and Latin America is the heart of the inferno
-url:: https://www.theguardian.com/global-development/2025/may/23/global-forest-loss-record-high-latin-america-heart-inferno
-title:: „Globale rote Warnung“: Waldverlust erreicht Rekordhoch – und Lateinamerika ist das Herz des Infernos
-authors:: [[Laura Barriga Dávalos]]
-date:: [[2025-05-23]]
-tags:: Latin America, Brazil, Bolivia, forest loss, wildfires, climate crisis, deforestation, agriculture, cattle ranching, environmental governance, Indigenous communities, CO2 emissions, biodiversity loss, Global Forest Watch, World Resources Institute, 2024,
-report:: [[Fires Drove Record-breaking Tropical Forest Loss in 2024]]
-
-- Im Jahr 2024 erreichte der globale Waldverlust ein Rekordhoch, wobei Lateinamerika besonders stark betroffen war. In Bolivien, das besonders hart getroffen wurde, kämpften Dorfbewohner mit wenig staatlicher Unterstützung gegen Waldbrände, bewaffnet mit kaum mehr als Schaufeln und Wasserflaschen. Die Brände, die durch Dürre und schwache Umweltpolitik verschlimmert wurden, zerstörten Ökosysteme, schlossen Schulen und stoppten Flüge. Die Hauptursachen für die Entwaldung sind großflächige Landwirtschaft und Viehzucht, die durch Feuer Land roden.
-- Laut dem World Resources Institute erreichte der globale Waldverlust 2024 ein Rekordhoch, wobei fast doppelt so viel tropischer Primärwald verloren ging wie im Vorjahr. Dies entspricht einer Fläche größer als Irland. Die CO2-Emissionen aus dem Verlust tropischer Primärwälder im Jahr 2024 überstiegen die jährlichen Kohlenstoffemissionen Indiens. Experten warnen, dass dieser Trend die kritischen natürlichen Gebiete dauerhaft verändern und große Mengen an Kohlenstoff freisetzen könnte, was den Klimawandel verschärft und noch extremere Brände fördert.
+- ```
+  original-title:: ‘Global red alert’: forest loss hits record high – and Latin America is the heart of the inferno
+  url:: https://www.theguardian.com/global-development/2025/may/23/global-forest-loss-record-high-latin-america-heart-inferno
+  title:: „Globale rote Warnung“: Waldverlust erreicht Rekordhoch – und Lateinamerika ist das Herz des Infernos
+  authors:: [[Laura Barriga Dávalos]]
+  date:: [[2025-05-23]]
+  tags:: Latin America, Brazil, Bolivia, forest loss, wildfires, climate crisis, deforestation, agriculture, cattle ranching, environmental governance, Indigenous communities, CO2 emissions, biodiversity loss, Global Forest Watch, World Resources Institute, Isabel Surubí Pesoa, Verónica Surubí Pesoa, Iván Arnold, Fundación Nativa, Stasiek Czaplicki Cabezas, Joaquin Carrizosa, Peter Potapov, Elizabeth Goldman, San Javier, Chaco region, Chiquitano tropical dry forests, Nembi Guasu, Guaraní park rangers, David Mercado, Reuters, Benjamin Swift, Bloomberg/Getty Images, Nasa Earth Observatory
+  
+  Im Jahr 2024 erreichte der globale Waldverlust ein Rekordhoch, wobei Lateinamerika besonders stark betroffen war. In Bolivien, das besonders hart getroffen wurde, kämpften Dorfbewohner mit wenig staatlicher Unterstützung gegen Waldbrände, bewaffnet mit kaum mehr als Schaufeln und Wasserflaschen. Die Brände, die durch Dürre und schwache Umweltpolitik verschlimmert wurden, zerstörten Ökosysteme, schlossen Schulen und stoppten Flüge. Die Hauptursachen für die Entwaldung sind großflächige Landwirtschaft und Viehzucht, die durch Feuer Land roden. Laut dem World Resources Institute erreichte der globale Waldverlust 2024 ein Rekordhoch, wobei fast doppelt so viel tropischer Primärwald verloren ging wie im Vorjahr. Dies entspricht einer Fläche größer als Irland. Die CO2-Emissionen aus dem Verlust tropischer Primärwälder im Jahr 2024 überstiegen die jährlichen Kohlenstoffemissionen Indiens. Experten warnen, dass dieser Trend die kritischen natürlichen Gebiete dauerhaft verändern und große Mengen an Kohlenstoff freisetzen könnte, was den Klimawandel verschärft und noch extremere Brände fördert.
+  [Zusammenfassung mit Mistral generiert]
+  ```
