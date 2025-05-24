@@ -1,7 +1,8 @@
-	original-title:: ‘Global red alert’: forest loss hits record high – and Latin America is the heart of the inferno
+original-title:: ‘Global red alert’: forest loss hits record high – and Latin America is the heart of the inferno
+title:: The Guardian: „Globale rote Warnung“: Waldverlust erreicht Rekordhoch – und Lateinamerika ist das Herz des Infernos
   url:: https://www.theguardian.com/global-development/2025/may/23/global-forest-loss-record-high-latin-america-heart-inferno
   title:: „Globale rote Warnung“: Waldverlust erreicht Rekordhoch – und Lateinamerika ist das Herz des Infernos
-  authors:: [[Laura Barriga Dávalos]]
+  authors:: [[Benjamin Swift]]
   date:: [[2025-05-23]]
   tags:: Latin America, Brazil, Bolivia, forest loss, wildfires, climate crisis, deforestation, agriculture, cattle ranching, environmental governance, Indigenous communities, CO2 emissions, biodiversity loss, Global Forest Watch, World Resources Institute, Isabel Surubí Pesoa, Verónica Surubí Pesoa, Iván Arnold, Fundación Nativa, Stasiek Czaplicki Cabezas, Joaquin Carrizosa, Peter Potapov, Elizabeth Goldman, San Javier, Chaco region, Chiquitano tropical dry forests, Nembi Guasu, Guaraní park rangers, David Mercado, Reuters, Benjamin Swift, Bloomberg/Getty Images, Nasa Earth Observatory
   

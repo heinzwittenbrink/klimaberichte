@@ -1,0 +1,9 @@
+original-title:: Wirtschaftsministerin Katharina Reiche: Energisch, ostdeutsch, konservativ
+url:: https://taz.de/Wirtschaftsministerin-Katharina-Reiche/!6087601/
+title:: Wirtschaftsministerin Katharina Reiche: Energisch, ostdeutsch, konservativ
+authors:: [[Nick Reimer]]
+date:: [[2025-05-24]]
+tags:: Katharina Reiche, Robert Habeck, Westenergie, Eon, Bundeswirtschaftsministerium, CDU, SPD, Claudia Kemfert, DIW, Friedrich Merz, Ostdeutsches Wirtschaftsforum, Ludwig-Erhard-Gipfel, Bundesverkehrsministerium, Bundesumweltministerium, EU, CO2-Grenzwerte, Atomkraft, Gaskraftwerke, Erdgasnetz, Heizungsgesetz, Wärmepumpen, Solardächer, Gasthermen, Energiepolitik, Versorgungssicherheit, Preisstabilität, Energiewende, Erdgas
+
+- Katherina Reiche, ehemalige Chefin von Westenergie, wurde ohne Karenzzeit zur Bundeswirtschaftsministerin ernannt. In ihrer Antrittsrede würdigte sie ihren Vorgänger Robert Habeck für seine „fast übermenschliche Leistung“ und betonte die Notwendigkeit, die Versorgungssicherheit zu priorisieren. Reiche plant, das Heizungsgesetz zu ändern, um Gasthermen wieder zuzulassen, und setzt sich für den Bau von mindestens 20 Gigawatt Gaskraftwerken ein, um die Energiepreise zu stabilisieren. Kritiker wie die Energieökonomin [[Claudia Kemfert]] warnen vor überdimensionierten und teuren fossilen Abhängigkeiten. Reiche, die in der DDR aufgewachsen ist und eine konservative Haltung vertritt, war zuvor als Lobbyistin in der Wirtschaft tätig. Ihre Rückkehr in die Politik ohne Karenzzeit wurde von Bundeskanzler Friedrich Merz unterstützt. Reiche betonte, dass Klimaschutz wichtig sei, aber Versorgungssicherheit und Preisstabilität gleiche Priorität hätten.
+	- [Zusammenfassung mit Mistral generiert]
