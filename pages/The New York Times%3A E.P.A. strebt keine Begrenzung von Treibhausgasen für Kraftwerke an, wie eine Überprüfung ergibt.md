@@ -1,0 +1,9 @@
+original-title:: E.P.A. Seeks No Greenhouse Gas Limits on Power Plants, Review Finds
+url:: https://www.nytimes.com/2025/05/24/climate/epa-power-plant-rules.html
+title:: E.P.A. strebt keine Begrenzung von Treibhausgasen für Kraftwerke an, wie eine Überprüfung ergibt
+authors:: [[Lisa Friedman]]
+date:: [[2025-05-24]]
+tags:: Environmental Protection Agency, E.P.A., methane, Trump administration, Lee Zeldin, Vickie Patton, Environmental Defense Fund, Biden administration, Michael Oppenheimer, Princeton University, Jeffrey R. Holmstead, Bracewell, China, United States, carbon pollution, public health, global emissions, climate regulations, deregulation, utility companies, Jonathan Adler, Case Western University, Kevin Dietsch, Will Warasila
+
+- Die Environmental Protection Agency (E.P.A.) plant, alle Grenzen für Treibhausgasemissionen von Kohle- und Gaskraftwerken in den USA aufzuheben. Die Begründung der Agentur lautet, dass diese Emissionen nicht signifikant zur gefährlichen Umweltverschmutzung oder zum Klimawandel beitragen, da sie nur einen kleinen und sinkenden Anteil an den globalen Emissionen ausmachen. Wissenschaftler widersprechen dieser Einschätzung und betonen, dass der Energiesektor in den USA die zweitgrößte Quelle von Treibhausgasen ist. Die vorgeschlagene Regelung ist Teil einer breiteren Initiative der Trump-Administration, die etablierte Wissenschaft zum Klimawandel infrage zu stellen. Die Aufhebung der Regulierungen könnte schwerwiegende Folgen für die öffentliche Gesundheit haben und die Bemühungen zur Bekämpfung des Klimawandels untergraben.
+  [Zusammenfassung mit Mistral generiert]

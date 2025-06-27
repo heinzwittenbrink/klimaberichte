@@ -1,0 +1,9 @@
+original-title:: Neues Haushaltspaket: Die USA beerdigen Joe Bidens Klimapolitik
+url:: https://taz.de/Neues-Haushaltspaket/!6087601/
+title:: Neues Haushaltspaket: Die USA beerdigen Joe Bidens Klimapolitik
+authors:: [[Hansjürgen Mai]]
+date:: [[2025-05-25]]
+tags:: Inflation Reduction Act, IRA, Republican party, Joe Biden, Donald Trump, Trump administration, Energy Innovation, Dan O’Brien, Lori Lodes, Climate Power, Todd Brickhouse, Basin Electric Power, NextEra, John Ketchum, energy transition, e-mobility Photovoltaikanlagen, pollution Strompreise, US-Repräsentantenhaus, US-Senat, US-Kongress, USA, US-Haushaltsgesetz 2025, IRA Repeal, [[Inflation Reduction Act Repeal Harms State Economies, Raises Consumer Costs]]
+
+- Ein von Republikanern ausgehandeltes Haushalts- und Steuerpaket gefährdet Hunderttausende Arbeitsplätze im Bereich nachhaltiger Technologien in den USA und könnte die Energiepreise erhöhen. Laut einer Studie des Thinktanks Energy Innovation würden die geplanten Änderungen zu einem Verlust von über 800.000 Arbeitsplätzen und einer Reduzierung des Bruttoinlandsprodukts um 117 Milliarden Dollar führen. Der Inflation Reduction Act (IRA), der von Ex-Präsident Joe Biden unterzeichnet wurde, hat seit 2022 zu Investitionen von über 422 Milliarden Dollar und über 400.000 neuen Arbeitsplätzen geführt. Das neue Gesetz würde jedoch viele dieser Anreize abschaffen und die Förderung von erneuerbaren Energien beenden, was zu höheren Energiekosten und mehr Luftverschmutzung führen könnte. Trotz Warnungen von Experten und einigen Republikanern, die von den Vorteilen des IRA profitiert haben, wurde das Gesetzespaket verabschiedet. Es könnte zu einer Energiekrise führen und die Stromrechnungen für amerikanische Familien erhöhen.
+  [Zusammenfassung mit Mistral generiert]

@@ -1,0 +1,9 @@
+original-title:: Extreme Hitze und Wasserknappheit: Dürre wird zum Dauerbegleiter
+url:: https://taz.de/Extreme-Hitze-und-Wasserknappheit/!6087601/
+title:: Extreme Hitze und Wasserknappheit: Dürre wird zum Dauerbegleiter
+authors:: [[Katharina Andresen]]
+date:: [[2025-05-22]]
+tags:: Helmholtz-Zentrum für Umweltforschung, Andreas Marx, Mitteldeutsches Umweltzentrum, Potsdamer Institut für Klimafolgenforschung, Deutscher Wetterdienst, Axel Bronstert, Universität Potsdam, Brandenburg, Hitzeextreme, Wasserknappheit, Ertragsverlust, Bodentrockenheit, Klimamodelle, Stadtgrün, Grundwasserspiegel, Hitzetote, Deutschland, increasing risk of droughts, Deutscher Dürremonitor, increasing risk of heatwaves,
+
+- Die aktuelle Dürrephase in Deutschland, die durch extreme Hitze verstärkt wird, zeigt sich besonders in Norddeutschland, wo die Trockenheit laut Dürrekarte des Helmholtz-Zentrums für Umweltforschung bereits jetzt extreme Ausmaße erreicht hat. Andreas Marx vom Deutschen Dürremonitor erklärt, dass solche Dürren normalerweise nur alle fünfzig Jahre auftreten. Forschende des Potsdamer Instituts für Klimafolgenforschung fanden heraus, dass Hitzeextreme in Mitteleuropa stark mit der Bodentrockenheit zusammenhängen, wobei dieser Einfluss zwischen 1979 und 2020 um 67 Prozent zugenommen hat. Dürren werden durch Hochdruckgebiete ausgelöst, die keine Wolkenbildung oder Regen zulassen, was zu trockenen Böden und erhöhter Hitze führt. In Städten verstärkt dies die Hitze, während auf dem Land Wasserknappheit zu erheblichen Ertragsverlusten führen kann. Die Zunahme von Hitzetagen wird in Zukunft ein immer größeres Problem darstellen.
+  [Zusammenfassung mit Mistral generiert]

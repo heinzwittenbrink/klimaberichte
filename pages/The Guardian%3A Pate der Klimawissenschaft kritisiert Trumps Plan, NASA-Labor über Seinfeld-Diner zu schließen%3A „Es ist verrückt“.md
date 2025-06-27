@@ -1,0 +1,9 @@
+original-title:: Godfather of climate science decries Trump plan to shut Nasa lab above Seinfeld diner: ‘It’s crazy’
+url:: https://www.theguardian.com/us-news/2025/may/24/nasa-goddard-institute-space-studies-new-york
+title:: Pate der Klimawissenschaft kritisiert Trumps Plan, NASA-Labor über Seinfeld-Diner zu schließen: „Es ist verrückt“
+authors:: [[Oliver Milman]]
+date:: [[2025-05-24]]
+tags:: NASA, Goddard Institute for Space Studies, Giss, Columbia University, Donald Trump, James Hansen, Gavin Schmidt, Kate Marvel, Bastiaan van Diedenhoven, New York City, Suzanne Vega, Elon Musk, IBM, climate models, climate science, Earth science budget, Columbia University, Armstrong Hall, Greenbelt, Maryland, New York, climate activism, climate breakdown, sea level rise, Trump Administration, war on science, USA
+
+- Das Goddard Institute for Space Studies (Giss) der NASA, ein bedeutendes Klimaforschungslabor, das seit 1966 über dem berühmten Tom’s Restaurant in Manhattan untergebracht war, wird von der Trump-Administration geschlossen. Das Labor hat bedeutende Beiträge zur Klimaforschung geleistet, darunter die Entwicklung früher Klimamodelle und die Unterstützung von Missionen zu Venus und Jupiter. Trotz seiner bedeutenden Rolle in der Klimaforschung wird das Labor nun geschlossen, was von vielen als Angriff auf die Klimawissenschaften angesehen wird. Dr. James Hansen, ein ehemaliger Direktor des Giss, kritisierte die Entscheidung und bezeichnete sie als Versuch, den Überbringer schlechter Nachrichten zu beseitigen. Die 130 Mitarbeiter des Labors müssen nun von zu Hause aus arbeiten, während die Zukunft des Labors ungewiss bleibt. Die Schließung erfolgt trotz der Tatsache, dass das Labor erst kürzlich für mehrere Millionen Dollar renoviert wurde und seine Arbeit für die öffentliche Wissenschaft von großer Bedeutung ist.
+  [Zusammenfassung mit Mistral generiert]
