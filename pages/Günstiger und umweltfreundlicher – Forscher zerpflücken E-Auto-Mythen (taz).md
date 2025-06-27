@@ -1,6 +1,7 @@
+-
 original-title:: Günstiger und umweltfreundlicher: Forscher zerpflücken E-Auto-Mythen
 url:: https://taz.de/Guensiger-und-umweltfreundlicher/!6087601/
-title:: Günstiger und umweltfreundlicher: Forscher widerlegen E-Auto-Mythen
+title:: Günstiger und umweltfreundlicher – Forscher widerlegen E-Auto-Mythen (taz)
 authors:: [[dpa]]
 date:: [[2025-05-24]]
 tags:: Elektroauto, Fraunhofer-Institut für System- und Innovationsforschung, ISI, Martin Wietschel, Energiewende, bidirektionales Laden, Photovoltaik, Smart Meter, Batterien, Feinstaub, Reifenabrieb, Brandgefahr, Verbrenner, Stromer, CO2-Ausstoß, Energiesysteme, Karlsruher Institut für Technologie, Fraunhofer-Instituts für System- und Innovationsforschung (ISI),

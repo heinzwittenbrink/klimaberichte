@@ -1,9 +1,9 @@
 original-title:: Inondations en Australie : quatre morts et des milliers de personnes isolées
 url:: https://www.liberation.fr/international/asie-pacifique/inondations-en-australie-quatre-morts-et-des-milliers-de-personnes-iso
-title:: Überschwemmungen in Australien: Vier Tote und Tausende isolierte Menschen
+title:: Überschwemmungen in Australien: Vier Tote und Tausende isolierte Menschen (Libération)
 authors:: [[Libération]], [[AFP]]
 date:: [[2025-05-23]]
 tags:: Australia, Chris Minns, Dallas Burnes, Kinne Ring, Kristy Mcbain, Mahdi Sedighkia, Steve Bernasconi,  Brisbane, Sydney, Kempsey, New South Wales, sea surface temperature, increasing risk of floodings, extreme events, marine heat waves,
 
 - Im Osten Australiens haben heftige Überschwemmungen mindestens vier Menschenleben gefordert und etwa 50.000 Menschen isoliert. Innerhalb von drei Tagen fiel so viel Regen wie sonst in sechs Monaten, was zu schweren Überschwemmungen führte. Premierminister Chris Minns erklärte den Notstand, um zusätzliche Ressourcen für die betroffenen Gebiete freizusetzen. Rettungskräfte setzten Helikopter, Boote und Drohnen ein, um mehr als 600 Menschen zu evakuieren. In Kempsey, einer Stadt zwischen Brisbane und Sydney, wurden die Bewohner überraschend von den Fluten eingeschlossen. Die Überschwemmungen haben auch zu einer Kontamination der Flutwässer geführt, was zusätzliche Risiken durch Nagetiere und Schlangen mit sich bringt. Über 20.000 Menschen sind ohne Zugang zu Medikamenten oder Nahrung isoliert. Experten wie Mahdi Sedighkia von der Australian National University sehen in diesen Ereignissen einen Beweis für die Auswirkungen des Klimawandels auf regionale Niederschlagsmuster. Die durchschnittliche Meerestemperatur um Australien war 2024 die höchste, die jemals gemessen wurde, was zu intensiveren Regenfällen führt. Der Klimawandel, verursacht durch die Verbrennung fossiler Brennstoffe, verstärkt die Häufigkeit und Intensität solcher Wetterextreme.
-  - [Zusammenfassung mit Mistral generiert]
+	- [Zusammenfassung mit Mistral generiert]

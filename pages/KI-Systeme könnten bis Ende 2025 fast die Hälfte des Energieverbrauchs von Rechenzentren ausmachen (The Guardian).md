@@ -1,9 +1,9 @@
--
-- original-title:: AI systems could account for nearly half of datacentre power consumption by end of 2025
-  url:: https://www.theguardian.com/environment/2025/may/22/ai-data-centre-power-consumption
-  title:: KI-Systeme könnten bis Ende 2025 fast die Hälfte des Energieverbrauchs von Rechenzentren ausmachen
-  authors:: [[Dan Milmo]]
-  date:: [[2025-05-22]]
-  tags:: AI, datacentre, energy consumption, Nvidia, Advanced Micro Devices, Broadcom, International Energy Agency, ChatGPT, DeepSeek R1, Crusoe Energy, OpenAI, Stargate, Microsoft, Google, EU AI Act, Alex de Vries-Gao, Adam Sobey, Alan Turing Institute, United Arab Emirates, energy efficiency, Digiconomist
+original-title:: AI systems could account for nearly half of datacentre power consumption by end of 2025
+url:: https://www.theguardian.com/environment/2025/may/22/ai-data-centre-power-consumption
+title:: KI-Systeme könnten bis Ende 2025 fast die Hälfte des Energieverbrauchs von Rechenzentren ausmachen
+authors:: [[Dan Milmo]]
+date:: [[2025-05-22]]
+tags:: AI, datacentre, energy consumption, Nvidia, Advanced Micro Devices, Broadcom, International Energy Agency, ChatGPT, DeepSeek R1, Crusoe Energy, OpenAI, Stargate, Microsoft, Google, EU AI Act, Alex de Vries-Gao, Adam Sobey, Alan Turing Institute, United Arab Emirates, energy efficiency, Digiconomist
+
 - Laut einer Analyse von Alex de Vries-Gao, Gründer der Website Digiconomist für Technologienachhaltigkeit, könnten KI-Systeme bis Ende dieses Jahres fast die Hälfte des Energieverbrauchs von Rechenzentren ausmachen. Die Internationale Energieagentur prognostiziert, dass KI bis zum Ende dieses Jahrzehnts fast so viel Energie benötigen wird wie Japan heute. De Vries-Gaos Berechnungen, die im Journal Joule veröffentlicht werden sollen, basieren auf dem Energieverbrauch von Chips von Nvidia und Advanced Micro Devices, die für das Training und den Betrieb von KI-Modellen verwendet werden. Die Schätzungen berücksichtigen auch den Energieverbrauch von Chips anderer Unternehmen wie Broadcom. Die IEA schätzt, dass alle Rechenzentren im letzten Jahr 415 Terawattstunden Strom verbraucht haben, wobei KI bereits 20 % davon ausmachen könnte. Bis Ende 2025 könnte der Energieverbrauch von KI-Systemen bis zu 49 % des gesamten Stromverbrauchs von Rechenzentren erreichen, was etwa 23 Gigawatt entspricht und damit doppelt so hoch ist wie der gesamte Energieverbrauch der Niederlande. De Vries-Gao weist darauf hin, dass Faktoren wie eine nachlassende Nachfrage nach Anwendungen wie ChatGPT oder geopolitische Spannungen zu einer Verlangsamung der Hardware-Nachfrage führen könnten. Effizienzgewinne könnten jedoch den KI-Einsatz weiter fördern. Das US-Startup Crusoe Energy sicherte sich 4,5 GW gasbetriebene Energie für seine Infrastruktur, was die Abhängigkeit von fossilen Brennstoffen verschärfen könnte. OpenAI kündigte kürzlich den Start eines Stargate-Projekts in den Vereinigten Arabischen Emiraten an. Microsoft und Google gaben zu, dass ihre KI-Bestrebungen ihre internen Umweltziele gefährden. De Vries-Gao kritisiert die mangelnde Transparenz in der KI-Branche bezüglich des Energieverbrauchs. Der EU AI Act verlangt zwar die Offenlegung des Energieverbrauchs für das Training von Modellen, nicht jedoch für den täglichen Gebrauch. Prof. Adam Sobey vom Alan Turing Institute betont die Notwendigkeit von mehr Transparenz und Effizienz in der KI-Nutzung, um den Energieverbrauch zu rechtfertigen.
-  - [Zusammenfassung mit Mistral generiert]
+	- [Zusammenfassung mit Mistral generiert]

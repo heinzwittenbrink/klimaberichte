@@ -1,0 +1,9 @@
+original-title:: Günstiger und umweltfreundlicher: Forscher zerpflücken E-Auto-Mythen
+url:: https://taz.de/Guensiger-und-umweltfreundlicher/!6087601/
+title:: Günstiger und umweltfreundlicher – Forscher widerlegen E-Auto-Mythen (taz)
+authors:: [[dpa]]
+date:: [[2025-05-24]]
+tags:: Elektroauto, Fraunhofer-Institut für System- und Innovationsforschung, ISI, Martin Wietschel, Energiewende, bidirektionales Laden, Photovoltaik, Smart Meter, Batterien, Feinstaub, Reifenabrieb, Brandgefahr, Verbrenner, Stromer, CO2-Ausstoß, Energiesysteme, Karlsruher Institut für Technologie, Fraunhofer-Instituts für System- und Innovationsforschung (ISI),
+
+- Eine aktuelle Studie des Fraunhofer-Instituts für System- und Innovationsforschung (ISI) in Karlsruhe widerlegt viele Mythen über Elektroautos. Die Studie zeigt, dass Elektroautos in den meisten Fällen umweltfreundlicher und wirtschaftlicher sind als Verbrenner. Laut Studienautor Martin Wietschel haben Elektroautos bei einer ganzheitlichen Betrachtung von Herstellung bis Entsorgung etwa 40 bis 50 Prozent weniger Treibhausgasemissionen als vergleichbare Verbrenner. Obwohl die Herstellung von Elektroautos höhere Emissionen verursacht, ist der CO2-Ausstoß beim Fahren deutlich geringer. Mit fortschreitender Energiewende und grünerem Strom wird der Vorteil der Elektroautos noch größer. Bereits heute können Elektroautos günstiger sein als Verbrenner, wenn man die Gesamtkosten betrachtet. Durch bidirektionales Laden und gesteuertes Laden am Smart Meter können Elektroautos noch wirtschaftlicher und umweltfreundlicher werden. Die Studie zeigt auch, dass die Brandgefahr bei Elektroautos nicht höher ist als bei Verbrennern. Allerdings haben Elektroautos Nachteile bei Feinstaub durch Reifenabrieb aufgrund ihres höheren Gewichts. Insgesamt sind Elektroautos jedoch deutlich umweltfreundlicher als vergleichbare Verbrenner.
+  [Zusammenfassung mit Mistral generiert]
