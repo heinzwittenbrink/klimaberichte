@@ -1,0 +1,9 @@
+original-title:: Suppression des ZFE : l’Assemblée nationale vote la fin des zones à faibles émissions
+url:: https://www.liberation.fr/environnement/suppression-des-zfe-lassemblee-nationale-vote-la-fin-des-zones-a-faibles-emissions-20250528_7K7X4Q2Q2JDQ3GX7Q6Q6Q6Q6Q6/
+title:: Abschaffung der Umweltzonen: Die französische Nationalversammlung stimmt für das Ende der Zonen mit niedrigen Emissionen (Libération)
+authors:: [[Libération]], [[AFP]]
+date:: [[2025-05-28]]
+tags:: ZFE, Assemblée nationale, Républicains, Rassemblement national, Modem, Horizons, LFI, Agnès Pannier-Runacher, Ian Boucard, Pierre Meurin, Sébastien Chenu, Laurent Wauquiez, Clément Beaune, Crit’Air, Conseil constitutionnel, pollution de l’air, loi Climat et résilience, Emmanuel Macron, France, Lowering of climate ambition
+
+- Am 28. Mai 2025 beschloss die französische Nationalversammlung die Abschaffung der Zonen mit niedrigen Emissionen (ZFE), die die Luftverschmutzung durch die Einschränkung bestimmter Fahrzeuge in Großstädten bekämpfen sollten. Der Vorschlag wurde von den Republikanern und dem Rassemblement National initiiert und mit Unterstützung von Modem, Horizons, LFI und einigen Macronisten angenommen. Umweltministerin Agnès Pannier-Runacher hatte vergeblich versucht, die ZFE zu verteidigen, indem sie darauf hinwies, dass diese Maßnahmen jährlich etwa 40.000 vorzeitige Todesfälle verhindern. Kritiker argumentierten, dass die ZFE soziale Ungleichheiten verstärken, da sich nicht alle Bürger:innen weniger verschmutzende Fahrzeuge leisten können. Die Entscheidung könnte jedoch noch vom Verfassungsrat überprüft werden, da sie möglicherweise als legislativer Zusatz betrachtet wird, der nicht direkt mit dem ursprünglichen Gesetzestext zusammenhängt.
+- [Zusammenfassung mit Mistral generiert]

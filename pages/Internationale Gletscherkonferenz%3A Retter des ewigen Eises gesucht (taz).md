@@ -1,0 +1,9 @@
+original-title:: Internationale Gletscherkonferenz: Retter des ewigen Eises gesucht
+url:: https://taz.de/Internationale-Gletscherkonferenz/!6087601/
+title:: Internationale Gletscherkonferenz: Retter des ewigen Eises gesucht
+authors:: [[Nick Reimer]]
+date:: [[2025-05-28]]
+tags:: Gletscherkonferenz, Tadschikistan, Duschanbe, UNO, COP30, Lima, Anden, Rio Chillón, Río Rímac, Rio Lurin, Vanch-Yakh, Pamir, Christian Sommer, Friedrich-Alexander-Universität Erlangen-Nürnberg, Kirgisische Akademie der Wissenschaften, Vladimir Romanovsky, Bischkek, Gletscherschmelze, Trinkwasser, Gletscherschutz, Duschanbe Deklaration, Gletscherfonds, Wasseragenda, Klimaagenda, Wasser- und Energiesicherheit, Ernährungssicherheit, Zentralasien, Alpen, Gletscherforschung, Klimafolgen, increasing risk of heatwaves, Temperaturrekorde, Internationale Gletscherkonferenz in Duschanbe Mai 2025,
+
+- Auf der internationalen Gletscherkonferenz in Tadschikistans Hauptstadt Duschanbe wird vom 28. Mai bis zum 31. Mai 2025 eine Deklaration zum Schutz der Gletscher erarbeitet. Die Konferenz zielt darauf ab, die Bemühungen zum Schutz der Gletscher mit globalen Zielen für Wasser-, Energie- und Ernährungssicherheit zu verbinden. Tadschikistan ist besonders betroffen, da bereits ein Drittel der Gletscherfläche verschwunden ist. Die Gletscherschmelze führt zu dramatischen Folgen, wie in Lima, Peru, wo die Wasserversorgung durch schmelzende Andengletscher gefährdet ist. Die UNO hat 2025 zum „Internationalen Jahr des Erhalts der Gletscher“ erklärt, um auf die lebensbedrohlichen Auswirkungen der Gletscherschmelze hinzuweisen. Die „Duschanbe Deklaration“ soll auf der UN-Generalversammlung und der Weltklimakonferenz COP30 im November in Brasilien diskutiert werden. Zudem wird ein Fonds für den Gletscherschutz gegründet, um die Wasser- und Klimaagenda zu unterstützen.
+- [Zusammenfassung mit Mistral generiert]
