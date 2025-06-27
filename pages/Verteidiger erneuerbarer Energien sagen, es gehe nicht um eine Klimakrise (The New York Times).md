@@ -1,0 +1,9 @@
+original-title:: Defenders of Renewable Energy Say It’s Not About a Climate Crisis
+url:: https://www.nytimes.com/2025/05/21/climate/inflation-reduction-act-lobbying-climate.html
+title:: Verteidiger erneuerbarer Energien sagen, es gehe nicht um eine Klimakrise
+authors:: [[Brad Plumer]], [[Lisa Friedman]]
+date:: [[2025-05-21]]
+tags:: Inflation Reduction Act, Chad Farrell, Encore Renewable Energy, Jen Kiggans, Constantino Nicolaou, PanelClaw, Abigail Ross Hopper, Solar Energy Industries Association, Michael Tubman, Lucid Motors, Alex Trembath, Breakthrough Institute, Thomas J. Pyle, American Energy Alliance, Devin Hartman, R Street Institute, Leah Stokes, University of California, Santa Barbara, National Center of Meteorology, New London State Pier, Connecticut, South Fork Wind Farm, Republican Party, E-Mobility, Energy Transition, USA, Trump administration,
+
+- Der Inflation Reduction Act, einst als das bedeutendste Klimagesetz in der Geschichte der USA gefeiert, steht nun vor einer möglichen Abschaffung durch die Republikaner im Repräsentantenhaus. Unterstützer des Gesetzes argumentieren nicht mehr primär mit Umweltschutz, sondern betonen die wirtschaftlichen Vorteile wie die Schaffung von Arbeitsplätzen und die Senkung der Strompreise. Die Debatte über das Gesetz zeigt, wie stark das Thema Klimawandel unter der Trump-Administration an Bedeutung verloren hat. Stattdessen wird die Bedeutung der erneuerbaren Energien für die nationale Energiesicherheit und den Wettbewerb mit China hervorgehoben. Unternehmen der erneuerbaren Energien warnen davor, dass Tausende von Arbeitsplätzen verloren gehen könnten, wenn die Steuervergünstigungen abgeschafft werden. Seit der Verabschiedung des Inflation Reduction Act wurden über 843 Milliarden Dollar in saubere Energien investiert, wobei der Großteil dieser Investitionen in von Republikanern kontrollierten Bezirken stattfand.
+  [Zusammenfassung mit Mistral generiert]
