@@ -1,0 +1,3 @@
+- Website: [Franziska Müller](https://ie.univie.ac.at/institut/mitarbeiterinnen/wissenschaftliche-mitarbeiterinnen/franziska-mueller/ "Franziska Müller")
+- Spezialistin u.a. für [[green hydrogen]]
+-
