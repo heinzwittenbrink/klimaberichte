@@ -1,0 +1,10 @@
+title:: Bei einem Abendessen griff Trump Klimavorschriften an und forderte 1 Milliarde Dollar von der Ölindustrie - (The New York Times)
+item-type:: [[newspaperArticle]]
+access-date:: 2025-07-21T08:04:11Z
+original-title:: "At a Dinner, Trump Assailed Climate Rules and Asked $1 Billion From Big Oil - The New York Times"
+url:: https://www.nytimes.com/2024/05/09/climate/trump-oil-gas-mar-a-lago.html
+authors:: [[Lisa Friedman]], [[Coral Davenport]], [[Jonathan Swan]], [[Maggie Haberman]]
+date:: [[2024-05-09]]
+tags:: US, Donald Trump, Joe Biden, ExxonMobil, EQT Corporation, American Petroleum Institute, Harold Hamm, Michael McKenna, Karoline Leavitt, Mike Sabel, Toby Rice, Jack Fusco, Nick Dell’Osso, Doug Burgum, Susie Wiles, Taylor Budowich, Meredith O’Rourke, Scott Pruitt, Ron DeSantis, Nikki Haley, fossil energy investments, renewable energy investments, climate action, energy transition, legal action against fossil emissions, timeframe: 2024, mode: report, heatwave, flooding, wildfire, [[Treffen Trumps mit Vertretern der Fossilindustrie in Mar-a-Lago 2024-04-11]] , [[Willow project]], [[Mountain Valley Pipeline]], [[Sea Port Oil Terminal]]
+
+- Am 11. April traf sich Donald Trump mit etwa 20 Ölmanagern und Lobbyisten in Mar-a-Lago, darunter Vertreter von ExxonMobil und EQT Corporation. Trump forderte eine Milliarde Dollar Spenden für seinen Wahlkampf und versprach im Gegenzug, Umweltvorschriften zu lockern, die die Ölindustrie belasten. Organisiert wurde das Treffen vom Ölmilliardär Harold Hamm. Trump kritisierte Bidens Klimapolitik und versprach, die Transition zu Elektrofahrzeugen zu stoppen und mehr öffentliche Länder für Öl- und Gasbohrungen freizugeben. Trotz Bidens ehrgeiziger Klimapolitik verzeichnete die fossile Brennstoffindustrie unter seiner Regierung Rekordgewinne. Trump argumentierte, dass die Industrie durch seine Politik stark profitieren würde und daher sein Wahlkampf unterstützen sollte. [Zusammenfassung mit Mistral generiert]
