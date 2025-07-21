@@ -1,4 +1,4 @@
-tags:: Texas, Trump administration, Donald Trump, Elon Musk, FEMA, Greg Abbott, Kristi Noem, Ted Cruz, Brooke Rollins, Scott Turner, Kelly Loeffler, John Cornyn, Karoline Leavitt, Russell Vought, [[Überschwemmungen in Texas Juli 2025]], [[Hurricane Helene September 2024]], [[Waldbrände in Süd-Kalifornien Januar 2025]] 
+tags:: Texas, Trump administration, Donald Trump, Elon Musk, FEMA, Greg Abbott, Kristi Noem, Ted Cruz, Brooke Rollins, Scott Turner, Kelly Loeffler, John Cornyn, Karoline Leavitt, Russell Vought, [[Central Texas Floods July 2025]], [[Hurricane Helene September 2024]], [[Waldbrände in Süd-Kalifornien Januar 2025]] 
 date:: [[Jul 11th, 2025]]
 issn:: 0261-3077
 title:: Trump verteidigt Umgang mit Überschwemmung in Texas, während Katastrophe Versprechen zur Schließung von FEMA auf die Probe stellt (The Guardian)
