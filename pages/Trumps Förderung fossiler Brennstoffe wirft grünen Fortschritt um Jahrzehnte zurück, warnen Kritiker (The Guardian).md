@@ -2,7 +2,7 @@ tags:: [[Climate crisis]], [[Donald Trump]]
 date:: [[Jul 20th, 2025]]
 original-title:: Trump fossil-fuel push setting back green progress decades, critics warn (The Guardian)
 item-type:: [[newspaperArticle]]
-date:: 2025-07-20
+date:: [[2025-07-20]]
 original-title:: "Trump fossil-fuel push setting back green progress decades, critics warn"
 language:: en-GB
 url:: https://www.theguardian.com/us-news/2025/jul/20/trump-energy-environment-agenda
