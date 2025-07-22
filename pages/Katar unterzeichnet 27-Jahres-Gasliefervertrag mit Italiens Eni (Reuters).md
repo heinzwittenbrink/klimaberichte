@@ -6,7 +6,7 @@ language:: en
 url:: https://www.reuters.com/markets/commodities/qatar-signs-27-year-gas-supply-deal-with-italys-eni-2023-10-23/
 publication-title:: Reuters
 authors:: [[Yousef Saba]]
-tags:: Qatar, Italy, Eni, QatarEnergy, Shell, TotalEnergies, Netherlands, France, EU, Russia, Germany, China, Sinopec, China National Petroleum Corporation, ConocoPhillips, North Field East, North Field South, LNG, FSRU Italia, Piombino, Tuscany, Adriatic terminal, fossil energy investments, timeframe: 2026-2053, [[LNG supply contract Qatar France October 2023]], [[LNG supply contract Qatar Netherlands October 2023]], [[LNG supply contract Qatar China November 2022]], [[LNG supply contract Qatar Netherlands October 2023]], [[LNG supply contract Qatar Germany November 2022]], [[LNG supply contract Qatar Netherlands October 2023]], LNG, Fossil expansion,
+tags:: Qatar, Italy, Eni, QatarEnergy, Shell, TotalEnergies, Netherlands, France, EU, Russia, Germany, China, Sinopec, China National Petroleum Corporation, ConocoPhillips, North Field East, North Field South, LNG, FSRU Italia, Piombino, Tuscany, Adriatic terminal, fossil energy investments, timeframe: 2026-2053, [[LNG supply contract Qatar France October 2023]], [[LNG supply contract Qatar Netherlands October 2023]], [[LNG supply contract Qatar China November 2022]], [[LNG supply contract Qatar Italy October 2023]], [[LNG supply contract Qatar Germany November 2022]], [[LNG supply contract Qatar Netherlands October 2023]], LNG, Fossil expansion,
 
 - [[Abstract]]
 	- State-owned QatarEnergy said on Monday it would supply Italy's Eni with gas for 27 years, following similar deals this month to supply the Netherlands via Shell and France through TotalEnergies.

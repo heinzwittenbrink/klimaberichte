@@ -1,0 +1,24 @@
+file:: [Paris-Maligned-III-2.pdf](file:///home/heinz/Zotero/storage/TZVF8TDZ/Paris-Maligned-III-2.pdf)
+file-path:: file:///home/heinz/Zotero/storage/TZVF8TDZ/Paris-Maligned-III-2.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: green
+  id:: 687fc92b-c894-4770-924c-ab4731340372
+  hl-type:: area
+  hl-stamp:: 1753205032770
+- [:span]
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: green
+  id:: 687fca2d-bd2f-4d9d-a596-921b32fe34bf
+  hl-type:: area
+  hl-stamp:: 1753205291250
+- [:span]
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: green
+  id:: 687fca8b-3176-4419-8625-ff1945a90a80
+  hl-type:: area
+  hl-stamp:: 1753205384711
