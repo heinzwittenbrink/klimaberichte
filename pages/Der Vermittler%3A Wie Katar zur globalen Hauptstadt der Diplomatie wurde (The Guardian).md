@@ -1,16 +1,3 @@
-tags:: [[Donald Trump]], [[Gaza]], [[Iran]], [[Jared Kushner]],[[Palestinian territories]],  Qatar, Iran, Israel, US, Sheikh Tamim bin Hamad al-Thani, Sheikh Mohammed bin Abdulrahman bin Jassim al-Thani, Dr Mohammed bin Abdulaziz al-Khulaifi, Donald Trump, Masoud Pezeshkian, Sheikh Tamim, Saudi Arabia, UAE, Russia, region: Middle East, [[Qatar Economic Forum]], [[Doha Debates]], [[Qatargate]][[Qatar]], [[Russia]], Kristian Coates Ulrichsen, Allen Fromherz, Sansom Milton, Ben Freeman, [[LNG supply contract Qatar Italy October 2023]], 
-date:: [[Jul 22nd, 2025]]
-issn:: 0261-3077
-section:: World news
-title:: Der Vermittler: Wie Katar zur globalen Hauptstadt der Diplomatie wurde (The Guardian)
-item-type:: [[newspaperArticle]]
-original-title:: The go-between: how Qatar became the global capital of diplomacy
-language:: en-GB
-url:: https://www.theguardian.com/world/2025/jul/22/how-qatar-became-the-global-capital-of-diplomacy
-short-title:: The go-between
-publication-title:: The Guardian
-authors:: [[Nesrine Malik]]
-
 - [[Abstract]]
 	- The long read: The tiny, astonishingly wealthy country has become a major player on the world stage, trying to solve some of the most intractable conflicts. What’s driving this project?
 - Am 13. Juni 2025 vermittelte Donald Trump zwischen Israel und Iran, um eine Eskalation zu verhindern. Katar spielte eine zentrale Rolle bei der Deeskalation und half, den Konflikt zu beenden. Katar hat sich als globaler Vermittler etabliert und ist in zahlreichen internationalen Konflikten aktiv. Das Land nutzt seine diplomatischen Fähigkeiten und finanziellen Ressourcen, um Friedensgespräche zu fördern. Katar beherbergt die größte US-Militärbasis im Nahen Osten und hat enge Beziehungen zu den USA. Trotz seiner kleinen Größe hat Katar großen Einfluss auf die globale Sicherheit. Die diplomatischen Bemühungen Katars sind Teil einer Strategie, um seine eigene Sicherheit zu gewährleisten und globalen Einfluss auszuüben. [Zusammenfassung mit Mistral generiert]
@@ -33,3 +20,15 @@ authors:: [[Nesrine Malik]]
 - 📌 Zitat: terms of foreign military sales, as distinct from military aid, Qatar is the US’s second largest partner in the world. (The largest is Poland, the US’s security partner against Russian aggression along the eastern flank of Nato.)
 - 📌 Zitat: It is common for senior Qatari officials to have more than one position, and demands on them have sharply increased.
 - 📌 Zitat: Earlier this year, two close advisers to Israeli prime minister Benjamin Netanyahu were arrested for taking money to promote Qatar’s image within Israel, resulting in what came to be known as Qatargate, a
+tags:: [[Donald Trump]], [[Gaza]], [[Iran]], [[Jared Kushner]],[[Palestinian territories]],  Qatar, Iran, Israel, US, Sheikh Tamim bin Hamad al-Thani, Sheikh Mohammed bin Abdulrahman bin Jassim al-Thani, Dr Mohammed bin Abdulaziz al-Khulaifi, Donald Trump, Masoud Pezeshkian, Sheikh Tamim, Saudi Arabia, UAE, Russia, region: Middle East, [[Qatar Economic Forum]], [[Doha Debates]], [[Qatargate]][[Qatar]], [[Russia]], Kristian Coates Ulrichsen, Allen Fromherz, Sansom Milton, Ben Freeman, [[LNG supply contract Qatar Italy October 2023]], 
+date:: [[Jul 22nd, 2025]]
+issn:: 0261-3077
+section:: World news
+title:: Der Vermittler: Wie Katar zur globalen Hauptstadt der Diplomatie wurde (The Guardian)
+item-type:: [[newspaperArticle]]
+original-title:: The go-between: how Qatar became the global capital of diplomacy
+language:: en-GB
+url:: https://www.theguardian.com/world/2025/jul/22/how-qatar-became-the-global-capital-of-diplomacy
+short-title:: The go-between
+publication-title:: The Guardian
+authors:: [[Nesrine Malik]]
