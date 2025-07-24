@@ -1,0 +1,1 @@
+- Notiz, 2025-07-24: Die Informationen und Verweise sind kompiliert aus dem Artikel [[„Totale Infiltration“: Wie die Kunststoffindustrie die wichtigen globalen Vertragsverhandlungen überschwemmt (The Guardian)]] von [[Damian Carrington]].
