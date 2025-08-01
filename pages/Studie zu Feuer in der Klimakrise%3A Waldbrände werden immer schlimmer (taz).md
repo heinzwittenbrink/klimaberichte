@@ -1,0 +1,9 @@
+- [[Abstract]]
+	- Die Erderhitzung befördert Waldbrände durch mehr Trockenheit. Das verbrennende Holz setzt wiederum CO₂ frei – und befeuert selbst die Klimakrise.
+- original-title:: Studie zu Feuer in der Klimakrise: Waldbrände werden immer schlimmer
+  url:: https://taz.de/Studie-zu-Feuer-in-der-Klimakrise/!6103742/
+  title:: Studie zu Feuer in der Klimakrise: Waldbrände werden immer schlimmer
+  authors:: 
+  date:: [[2025-08-01]]
+  tags:: WWF, Johannes Zahnen, increasing risk of wildfires,
+  Im Jahr 2023 verbrannten weltweit etwa 26 Millionen Hektar Wald, eine Fläche so groß wie Neuseeland, und setzten dabei rund 8,8 Milliarden Tonnen CO₂ frei, mehr als das Fünfzehnfache der jährlichen Emissionen Deutschlands. Die durch die Klimakrise verschärften Waldbrände werden zunehmend unkontrollierbar und treten sogar in bisher untypischen Regionen wie Südskandinavien und dem Amazonas-Regenwald auf. Die Ursachen sind vielfältig, aber eindeutig menschengemacht, darunter Erderhitzung, intensiver Holzeinschlag und unvorsichtiger Umgang mit Feuer. Wissenschaftler prognostizieren einen Anstieg extremer Vegetationsbrände bis 2030 um 14 Prozent und bis Ende des Jahrhunderts um 50 Prozent. Der WWF fordert eine Verlagerung des Fokus von der Brandbekämpfung auf die Brandvermeidung durch Wiederherstellung natürlicher Wälder und naturnahe Bewirtschaftung. In den vergangenen Wochen gab es zahlreiche massive Waldbrände in Ländern an der Mittelmeer- und Atlantikküste, besonders betroffen waren Griechenland, die Türkei, Bulgarien, Frankreich, Spanien und Portugal. [Zusammenfassung mit Mistral generiert]
